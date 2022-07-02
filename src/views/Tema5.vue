@@ -46,7 +46,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              p Mi Promesa ClimáticaEs reunirá a importantes voces en este tema en el ámbito nacional que darán lineamientos sobre cuáles son esos factores a los que se debe comprometer la ciudadanía para proteger el clima; las acciones a tomar, durante y después de la pandemia, para reducir el impacto negativo en Colombia.
+              p #MiPromesaClimáticaEs reunirá a importantes voces en este tema en el ámbito nacional que darán lineamientos sobre cuáles son esos factores a los que se debe comprometer la ciudadanía para proteger el clima; las acciones a tomar, durante y después de la pandemia, para reducir el impacto negativo en Colombia.
             li 
               .lista-ol--cuadro__vineta
                 span 2
@@ -107,6 +107,7 @@
 
     p.mb-3 Las consecuencias del cambio climático van desde el cambio sustancial de los ecosistemas y subsistemas asociados, sin embargo, podríamos reunir una serie de efectos que podrían impactar de manera irreversible al planeta.
 
+    p.mb-3 El portal climate.nasa.gov los sintetiza de la siguiente manera:
     .row.aling.my-5   
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-7.p-4.mb-4.p-5
@@ -271,9 +272,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")  
       .col-sm-6.col-lg-4.mb-4.mb-xl-0
         .jumbotron-8.h-100
-          .p-4
-            img(src="@/assets/curso/images/tema5/img_10.svg" alt='',style="width:340px;").mb-4
-            p.text-center “En la actualidad, los climatólogos están comenzando a entender cuáles de las calamidades del año pasado se pueden o no se pueden relacionar con el calentamiento global. En una nueva serie de trabajos que se publicaron recientemente en Bulletin of the American Meteorological Society, investigadores de todo el mundo analizaron veintisiete eventos climáticos extremos de 2016 y encontraron que el cambio climático que ha provocado el hombre era un “motor significativo” en veintiuno de ellos”.
+          .p-5
+            img(src="@/assets/curso/images/tema5/img_10.svg" alt='',style="width:340px;").mb-5
+            p.text-center.p-4.mb-4 El periódico The New York Times publicó un artículo relacionado con estos fenómenos donde afirma cómo el calentamiento global influyó en cinco fenómenos climáticos extremos que se están presentando con mayor frecuencia e intensidad.
+            
       
       .col-sm-6.col-lg-4.mb-4.mb-xl-0
         .jumbotron-8.h-100
@@ -283,18 +285,18 @@
       
       .col-sm-6.col-lg-4.mb-4.mb-xl-0
         .jumbotron-8
-          .p-5
-            img.mb-2(src="@/assets/curso/images/tema5/img_12.png" alt='',)
-            p.text-center.p-4.mb-5 El periódico The New York Times publicó un artículo relacionado con estos fenómenos donde afirma cómo el calentamiento global influyó en cinco fenómenos climáticos extremos que se están presentando con mayor frecuencia e intensidad.
+          .p-4
+            img.mb-3(src="@/assets/curso/images/tema5/img_12.png" alt='',)
+            p.text-center “En la actualidad, los climatólogos están comenzando a entender cuáles de las calamidades del año pasado se pueden o no se pueden relacionar con el calentamiento global. En una nueva serie de trabajos que se publicaron recientemente en Bulletin of the American Meteorological Society, investigadores de todo el mundo analizaron veintisiete eventos climáticos extremos de 2016 y encontraron que el cambio climático que ha provocado el hombre era un “motor significativo” en veintiuno de ellos”.
 
 
-    p.mb-3 A continuación, se muestran algunos de los principales efectos climáticos que, a partir del año 2016, la comunidad científica ha detectado como consecuencia del calentamiento global. Se recomienda prestar mucha atención y tomar nota atenta de los datos y elementos considerados importantes y muy importantes.
+    p.mb-3 A continuación, se muestran algunos de los principales efectos climáticos que, a partir del año 2016, la comunidad científica ha detectado como consecuencia del calentamiento global. Se recomienda prestar mucha atención y tomar nota atenta de los datos y elementos considerados muy importantes.
 
     
     .row.align-items-center.align-items-center.my-5
       .col-lg-12
         TabsA.color-acento-contenido(data-aos="fade")
-          .tarjeta.back-tab-1.px-5.py-4(titulo="¿Temperaturas récord en todo el mundo.")
+          .tarjeta.back-tab-1.px-5.py-4(titulo="¿Temperaturas récord en todo el mundo")
             .row.px-2.py-2.justify-content-center
               .col-lg-10
                 h3 Temperaturas récord en todo el mundo.
@@ -325,7 +327,7 @@
                 h3.mt-3 Incendios forestales en América del Norte
                 p.mb-3 “En 2016, los incendios forestales quemaron cerca de 3.6 millones de hectáreas al oeste de Canadá y Estados Unidos, incluido un incendio que fue particularmente destructivo en Alberta, el cual generó evacuaciones masivas y destruyó 2400 hogares”.
 
-          .tarjeta.back-tab-1.px-5.py-4(titulo="5. ¿La “mancha” cálida en el Océano Pacífico")
+          .tarjeta.back-tab-1.px-5.py-4(titulo="¿La “mancha” cálida en el Océano Pacífico")
             .row.px-2.py-2.justify-content-center
               .col-6.col-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/images/tema5/img_16.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")

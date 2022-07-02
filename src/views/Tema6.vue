@@ -21,8 +21,15 @@
       .h2 6.1 Contaminación y calidad ambiental
 
     p.mb-5 Es importante definir cómo la regulación ambiental marca el camino de la conciencia ambiental en nuestro país, según el Instituto De Hidrología Meteorología Y Estudios Ambientales –IDEAM… “el control de la contaminación en Colombia comienza con la generación de datos e información.  La caracterización de la calidad ambiental que es su equivalente, constituye uno de los más importantes procesos de desarrollo de información orientados a un amplio margen de tomadores de decisiones que van desde el ciudadano del común que busca optimizar sus medios de vida, hasta los altos funcionarios del Estado que deben tomar decisiones de política pública relacionada con grandes grupos poblacionales, especialmente los que habitan las zonas urbanas”
+    
+    .row.justify-content-center.mt-3
+        .col-lg-8 
+        .col-lg-4 
+          .jumbotron-4.p-4
+              p.mb-3 (IDEAM, 2014)
 
-
+    p.mb-5 Normas Asociadas.
+ 
     .row.justify-content-center
       .col-lg-10(data-aos="zoom-in-down")
         ImagenInfografica.color-secundario.mb-5
@@ -72,8 +79,7 @@
                 i.fas.fa-check.c-check
                 | Política para la prevención y control de la contaminación del aire.
           .row.justify-content.mt-3.p-1
-            .col-lg-2
-            .col-lg-10
+            .col-lg-12
               p Nota. Tomada de Cárdenas (2020). Sectores Normativos.
     Separador
     #t_6_3.titulo-segundo
@@ -121,7 +127,7 @@
               p Protocolo para el monitoreo y seguimiento de la calidad del aire. 
             li 
               i.fas.fa-check.c-check
-              p anual de diseño de sistemas de vigilancia de calidad del aire.
+              p Manual de diseño de sistemas de vigilancia de calidad del aire.
 
     Separador
     #t_6_4.titulo-segundo
@@ -198,11 +204,14 @@
       .col-lg-10(data-aos="zoom-in-down")
         .jumbotron-9.p-4
           h3 <u> Normas asociadas </u>
-          p.mb-3 Resolución 910 de 2008.  Por la cual se reglamentan los niveles permisibles de emisión de contaminantes que deberán cumplir las fuentes móviles terrestres, se reglamenta el Artículo 91 del Decreto 948 de 1995 y se adoptan otras disposiciones.
-
-          p.mb-0 Resolución 1111 de 2013.  Por la cual se modifica la resolución 910 de 2008.
-
-
+          ul.lista-ul--color
+            li 
+              i.fas.fa-circle.cac
+              | Resolución 910 de 2008.  Por la cual se reglamentan los niveles permisibles de emisión de contaminantes que deberán cumplir las fuentes móviles terrestres, se reglamenta el Artículo 91 del Decreto 948 de 1995 y se adoptan otras disposiciones.
+            li
+              i.fas.fa-circle.cac
+              | Resolución 1111 de 2013.  Por la cual se modifica la resolución 910 de 2008.
+   
 
 
 

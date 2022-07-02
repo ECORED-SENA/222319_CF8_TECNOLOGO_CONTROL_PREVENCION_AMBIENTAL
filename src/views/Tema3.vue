@@ -29,7 +29,7 @@
 
     h3 Para poder entender la meteorología 
 
-    p.mb-3 Para poder entender la meteorología, es necesario comprender sus conceptos claves, como atmósfera: “envoltura gaseosa que rodea la tierra. Capa gaseosa que rodea nuestro planeta. Además de contener el aire, incluye partículas sólidas y líquidas en suspensión o aerosoles y nubes”. (IDEAM, 2019)
+    p.mb-3 Es necesario comprender sus conceptos claves, como Atmósfera: “envoltura gaseosa que rodea la tierra. Capa gaseosa que rodea nuestro planeta. Además de contener el aire, incluye partículas sólidas y líquidas en suspensión o aerosoles y nubes”. (IDEAM, 2019)
 
     h3.mb-5 Formación de la atmósfera terrestre
 
@@ -39,7 +39,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto.p-4 <b> Según el portal www.capasdelatierra.org: </b> “Se cree que la tierra se formó hace unos 5 mil millones de años y que muchos de los gases de nuestra atmósfera fueron expulsados al aire por los primeros volcanes; durante los primeros 500 millones de años, hubo poco o nada de oxígeno libre alrededor de la tierra. El oxígeno libre consiste en moléculas de oxígeno no unidas a otro elemento, por ejemplo, el carbono (para formar dióxido de carbono) o el hidrógeno (para formar agua)”.“Hace mil millones de años, los primeros organismos acuáticos, llamados algas verdeazuladas, comenzaron a usar la energía del sol para dividir las moléculas de agua (H2O) y el dióxido de carbono (CO2), recombinándolas en compuestos orgánicos y oxígeno molecular (O2). Este proceso de conversión de energía solar se conoce como fotosíntesis”.“En lo alto de la atmósfera, algunas moléculas de oxígeno (O2) absorbieron energía de los rayos ultravioleta (UV) del sol y se dividieron para formar átomos individuales de oxígeno. Estos átomos se combinaron con el oxígeno restante y formaron moléculas de ozono (O3), un gas capaz de absorber los rayos UV. La capa de ozono que rodea la tierra actúa como escudo protector contra la radiación UV”.#[br]“El aire que respiramos está compuesto en un 78% de nitrógeno (N2), un 21% de oxígeno (O2), 0.9% de argón (Ar) y 0.04% de dióxido de carbono (CO2). El resto está compuesto por elementos llamados oligoelementos, que incluyen vapor de agua, ozono y otras partículas / moléculas que flotan alrededor”.
+          h4.text-regular.bloque-texto-f__texto.p-4 <b> Según el portal www.capasdelatierra.org: </b> “Se cree que la tierra se formó hace unos 5 mil millones de años y que muchos de los gases de nuestra atmósfera fueron expulsados al aire por los primeros volcanes; durante los primeros 500 millones de años, hubo poco o nada de oxígeno libre alrededor de la tierra. El oxígeno libre consiste en moléculas de oxígeno no unidas a otro elemento, por ejemplo, el carbono (para formar dióxido de carbono) o el hidrógeno (para formar agua)”.“Hace mil millones de años, los primeros organismos acuáticos, llamados algas verdeazuladas, comenzaron a usar la energía del sol para dividir las moléculas de agua (H2O) y el dióxido de carbono (CO2), recombinándolas en compuestos orgánicos y oxígeno molecular (O2). Este proceso de conversión de energía solar se conoce como fotosíntesis”.“En lo alto de la atmósfera, algunas moléculas de oxígeno (O2) absorbieron energía de los rayos ultravioleta (UV) del sol y se dividieron para formar átomos individuales de oxígeno. Estos átomos se combinaron con el oxígeno restante y formaron moléculas de ozono (O3), un gas capaz de absorber los rayos UV. La capa de ozono que rodea la tierra actúa como escudo protector contra la radiación UV”.#[br]#[br]“El aire que respiramos está compuesto en un 78% de nitrógeno (N2), un 21% de oxígeno (O2), 0.9% de argón (Ar) y 0.04% de dióxido de carbono (CO2). El resto está compuesto por elementos llamados oligoelementos, que incluyen vapor de agua, ozono y otras partículas / moléculas que flotan alrededor”.
           .bloque-texto-f__autor.mb-3.aling-1
             p.mb-0 (Capas de la Tierra, 2018)
 
@@ -59,8 +59,8 @@
           .tarjeta.back-tab.px-5.py-4(titulo="Tropósfera")
             .row.px-2.py-2.justify-content-center
               .col-lg-12
-                h3 Tropósfera
-                p.mb-3 “La primera de las capas de la atmósfera es la tropósfera y es la más cercana a la superficie terrestre y, por lo tanto, es en aquella capa en la que vivimos nosotros. Se extiende desde el nivel del mar hasta más o menos unos 10-15 km de altura. Es en la tropósfera donde se desarrolla la vida en el planeta. Más allá de la tropósfera las condiciones no permiten el desarrollo de la vida. La temperatura y la presión atmosférica van disminuyendo en la tropósfera conforme vamos incrementando la altura en la que nos encontramos”. (Portillo, 2021)
+                h3 Troposfera
+                p.mb-3 “La primera de las capas de la atmosfera es la troposfera y es la más cercana a la superficie terrestre y, por lo tanto, es en aquella capa en la que vivimos nosotros. Se extiende desde el nivel del mar hasta más o menos unos 10-15 km de altura. Es en la tropósfera donde se desarrolla la vida en el planeta. Más allá de la troposfera las condiciones no permiten el desarrollo de la vida. La temperatura y la presión atmosférica van disminuyendo en la troposfera conforme vamos incrementando la altura en la que nos encontramos”. (Portillo, 2021)
             .row.align-items-center
               .col-lg-10
               .col-lg-2
@@ -70,35 +70,35 @@
             .row.px-2.py-2.justify-content-center
               .col-lg-12
                 h3 Estratósfera
-                p.mb-3 “Se encuentra a partir de la tropopausa y se extiende desde los 10-15 km de altura hasta los 45-50 km. La temperatura en la estratósfera es mayor en la parte superior que en la inferior ya que conforme aumenta en altura, va absorbiendo mayor cantidad de rayos solares y va aumentando su temperatura. Es decir, el comportamiento de la temperatura en altura es al contrario que en la tropósfera. Comienza siendo estable, pero baja, y conforme aumenta la altitud, aumenta la temperatura”.
-                p.mb-0 Al final de la estratósfera se encuentra la estratopausa. Se trata de una zona de la atmósfera donde terminan las altas concentraciones de ozono y la temperatura se vuelve muy estable (sobre los 0 grados centígrados). La estratopausa es la que da paso a la mesósfera.  (Portillo, 2021)
+                p.mb-3 “Se encuentra a partir de la tropopausa y se extiende desde los 10-15 km de altura hasta los 45-50 km. La temperatura en la estratósfera es mayor en la parte superior que en la inferior ya que conforme aumenta en altura, va absorbiendo mayor cantidad de rayos solares y va aumentando su temperatura. Es decir, el comportamiento de la temperatura en altura es al contrario que en la troposfera. Comienza siendo estable, pero baja, y conforme aumenta la altitud, aumenta la temperatura”.
+                p.mb-0 Al final de la estratósfera se encuentra la estratopausa. Se trata de una zona de la atmósfera donde terminan las altas concentraciones de ozono y la temperatura se vuelve muy estable (sobre los 0 grados centígrados). La estratopausa es la que da paso a la mesosfera.  (Portillo, 2021)
             .row.align-items-center
               .col-lg-10
               .col-lg-2
                 img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
           
 
-          .tarjeta.back-tab.px-5.py-4(titulo="Mesósfera")
+          .tarjeta.back-tab.px-5.py-4(titulo="Mesosfera")
             .row.px-2.py-2.justify-content-center
               .col-lg-12
-                h3 Mesósfera
-                p.mb-3 “Al final de la estratósfera, se encuentra la estratopausa. Se trata de una zona de la atmósfera donde terminan las altas concentraciones de ozono y la temperatura se vuelve muy estable (sobre los 0 grados centígrados). La estratopausa es la que da paso a la mesósfera”.
-                p.mb-0 La mesósfera es la capa más delgada de la atmósfera, ya que sólo contiene el 0,1% de la masa de aire total, y en ella se pueden alcanzar temperaturas de hasta -80 grados centígrados. En esta capa tienen lugar las reacciones de quimioluminiscencia y aeroluminiscencia.  (Portillo, 2021)
+                h3 Mesosfera
+                p.mb-3 “Al final de la estratósfera, se encuentra la estratopausa. Se trata de una zona de la atmósfera donde terminan las altas concentraciones de ozono y la temperatura se vuelve muy estable (sobre los 0 grados centígrados). La estratopausa es la que da paso a la mesosfera”.
+                p.mb-0 La mesosfera es la capa más delgada de la atmósfera, ya que sólo contiene el 0,1% de la masa de aire total, y en ella se pueden alcanzar temperaturas de hasta -80 grados centígrados. En esta capa tienen lugar las reacciones de quimioluminiscencia y aeroluminiscencia.  (Portillo, 2021)
 
-          .tarjeta.back-tab.px-5.py-4(titulo="Termósfera")
+          .tarjeta.back-tab.px-5.py-4(titulo="Termosfera")
             .row.px-2.py-2.justify-content-center
               .col-lg-12
-                h3 Termósfera
-                p.mb-3 “Es la capa de la atmósfera más amplia. Se extiende desde los 80-90 km hasta los 640 km. A estas alturas ya apenas queda aire y las partículas que existen en esta capa se ionizan por la radiación ultravioleta. A esta capa también se le llama ionósfera debido a las colisiones de los iones que tienen lugar en ella. La ionósfera tiene gran influencia en la propagación de las ondas de radio. Una parte de la energía radiada por un transmisor hacia la ionósfera es absorbida por el aire ionizado y otra es refractada, o desviada, de nuevo hacia la superficie de la tierra”.
+                h3 Termosfera
+                p.mb-3 “Es la capa de la atmósfera más amplia. Se extiende desde los 80-90 km hasta los 640 km. A estas alturas ya apenas queda aire y las partículas que existen en esta capa se ionizan por la radiación ultravioleta. A esta capa también se le llama ionosfera debido a las colisiones de los iones que tienen lugar en ella. La ionosfera tiene gran influencia en la propagación de las ondas de radio. Una parte de la energía radiada por un transmisor hacia la ionósfera es absorbida por el aire ionizado y otra es refractada, o desviada, de nuevo hacia la superficie de la tierra”.
 
-                p.mb-2 La temperatura en la termósfera es muy alta, llegando a ser de hasta miles de grados Celsius. Todas las partículas que se encuentran en la termósfera están altamente cargadas de energía proveniente de los rayos del sol.
+                p.mb-2 La temperatura en la termosfera es muy alta, llegando a ser de hasta miles de grados Celsius. Todas las partículas que se encuentran en la termosfera están altamente cargadas de energía proveniente de los rayos del sol.
                 p (Portillo, 2021)
 
-          .tarjeta.back-tab.px-5.py-4(titulo="Exósfera")
+          .tarjeta.back-tab.px-5.py-4(titulo="Exosfera")
             .row.px-2.py-2.justify-content-center
               .col-lg-12
-                h3 Exósfera
-                p.mb-3 “La última de las capas de la atmósfera es la exósfera. Esta es la capa más alejada de la superficie terrestre y, debido a su altura, es la más indefinida y por eso no es en sí considerada una capa de la atmósfera. Más o menos se extiende entre los 600-800 km de altura hasta los 9.000-10.000 km. Esta capa de la atmósfera es la que separa el planeta tierra del espacio exterior y en ella los átomos se escapan. Está compuesta en su mayoría de hidrógeno”.
+                h3 Exosfera
+                p.mb-3 “La última de las capas de la atmosfera es la exosfera. Esta es la capa más alejada de la superficie terrestre y, debido a su altura, es la más indefinida y por eso no es en sí considerada una capa de la atmósfera. Más o menos se extiende entre los 600-800 km de altura hasta los 9.000-10.000 km. Esta capa de la atmósfera es la que separa el planeta tierra del espacio exterior y en ella los átomos se escapan. Está compuesta en su mayoría de hidrógeno”.
                 p (Portillo, 2021)
 
     .row.align-items-center.aling.my-5
@@ -141,10 +141,7 @@
 
     p.mb-3 Para continuar conociendo los aspectos conceptuales básicos que favorecerán el estudio de este componente y que ayudarán a apropiar, más y mejor, la problemática atmosférica, se invita a desarrollar la siguiente actividad.
 
-    Separador
-
-    #t_3_1.titulo-segundo
-      .h2 3.1  Bases conceptuales:
+    h3 Bases conceptuales:
     
     p.mb-3 Se presentan otros elementos conceptuales que tienen que ver, directamente, con la presión atmosférica. Ello favorecerá la asimilación de los contenidos de este componente y ampliará las posibilidades de aplicación de estrategias técnicas y mecanismos sistemáticos para enfrentar la problemática atmosférica actual. Se debe estudiar la gráfica de manera ordenada, siguiendo la numeración de sus partes.
 
@@ -167,9 +164,9 @@
               img(src='@/assets/curso/images/tema3/img_3.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
           .col-lg-10
             h3 Temperatura
-            p.mb-3 Presión (fuerza por unidad de área) ejercida por la atmósfera sobre cualquier superficie en virtud de su peso. Equivale al peso de una columna de aire de sección transversal unitaria que se extiende desde un nivel dado hasta el límite superior de la atmósfera (IDEAM, 2019). 
+            p.mb-3 Magnitud física que caracteriza el movimiento aleatorio medio de las moléculas en un cuerpo físico (IDEAM, 2019). Entonces se podría decir que entre más movimiento de las moléculas, mayor es la temperatura que se genera en el elemento, sustancia o cuerpo.
 
-            p.mb-0 Las unidades de medida de la presión atmosférica se establecen en diferentes unidades dependiendo del sistema empleado, algunas de las equivalencias más utilizadas se las presentamos en los botones siguientes de esta gráfica.
+            p.mb-0 La unidad con la que se determina la temperatura se establece en diferentes unidades, dependiendo del sistema de unidades empleado. Diríjase al punto tres de esta gráfica.
 
      
       .py-3.py-md-4(titulo="3. Velocidad del viento")
@@ -240,8 +237,13 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Según el IDEAM, la evaporación del agua se relaciona en 2 conceptos
-                  p Emisión de vapor de agua por una superficie líquida de agua libre a temperatura inferior a su punto de ebullición.
-                  p.mb-3 Cantidad de agua evaporada. (IDEAM,2019)
+                  ul.lista-ul--color
+                    li 
+                      i.fas.fa-circle.cac
+                      | Emisión de vapor de agua por una superficie líquida de agua libre a temperatura inferior a su punto de ebullición.
+                    li
+                      i.fas.fa-circle.cac
+                      | Cantidad de agua evaporada. (IDEAM,2019)
 
                   p.mb-3 Por ende, la evaporación relaciona indirectamente la cantidad de evaporatividad que influye en los diversos cambios en el comportamiento de la atmósfera. A esa relación se le conoce como:
 
@@ -263,15 +265,15 @@
 
                   p.mb-2 Cuando se habla de radiación se puede ver desde diferentes perspectivas conceptuales, no solo es lo que conocemos como lo que produce la luz del sol. La radiación electromagnética se puede clasificar en diferentes tipos. El portal foronuclear.org define los siguientes conceptos.
 
-                  p.mb-2 Radiación no ionizante: “No tiene la suficiente energía como para romper los enlaces que unen los átomos del medio que irradian (ondas de radio y TV, microondas, luz visible, etc.)”.
+                  p.mb-2 Radiación no ionizante: “no tiene la suficiente energía como para romper los enlaces que unen los átomos del medio que irradian (ondas de radio y TV, microondas, luz visible, etc.)”.
 
-                  p.mb-2 Radiación ionizante: “Tiene suficiente energía como para producir ionizaciones de los átomos del medio o materia que es irradiado. Van desde los rayos X hasta la radiación cósmica”.
+                  p.mb-2 Radiación ionizante: “tiene suficiente energía como para producir ionizaciones de los átomos del medio o materia que es irradiado. Van desde los rayos X hasta la radiación cósmica”.
 
                   p.mb-2 Dependiendo de la relación que estas tengan con diversas materias o elementos, también se clasifican con el alfabeto griego para diferenciarlas técnicamente en:
 
-                  p.mb-2 Alfa: con capacidad limitada de penetración en la materia, pero mucha intensidad energética.
-                  p.mb-2 Beta: algo más penetrantes, pero menos intensas que las radiaciones alfa.
-                  p.mb-2 Gamma: es la radiación más penetrante de todas.
+                  p.mb-2 alfa: con capacidad limitada de penetración en la materia, pero mucha intensidad energética.
+                  p.mb-2 beta: algo más penetrantes, pero menos intensas que las radiaciones alfa.
+                  p.mb-2 gamma: es la radiación más penetrante de todas.
 
                   p.mb-2 (Foro Nuclear, 2020)
 

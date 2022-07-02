@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Diagnosticar e interpretar resultados de contaminación atmosférica según normativa vigente.',
+      'Diagnosticar e interpretar resultados de contaminación atmosférica según normativa vigente',
     descripcionCurso:
       'Con el estudio de este componente, el aprendiz podrá favorecer procesos de comprensión, análisis y aplicación de diagnósticos de la problemática ambiental y de interpretación de mediciones de contaminación atmosférica, basándose en procedimientos técnicos y normativa ambiental vigente.',
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
@@ -62,7 +62,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Bases conceptuales',
+        titulo: 'Orígenes de contaminación y fuentes de emisiones',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -140,7 +140,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.4',
-            titulo: '6.4 Fuentes fijas ',
+            titulo: 'Fuentes fijas ',
             hash: 't_6_4',
           },
           {
@@ -288,6 +288,20 @@ export default {
         'Portillo, G. (2021, 15 abril). Capas de la atmósfera. Meteorología en Red. ',
       link: 'https://www.meteorologiaenred.com/capas-atmosfera.html',
     },
+    {
+      referencia:
+        'Resolución 909 de 2008. [Ministerio de Ambiente, Vivienda y Desarrollo Territorial]. Por la cual se establecen las normas y estándares de emisión admisibles de contaminantes a la atmósfera por fuentes fijas y se dictan otras disposiciones. Junio 05 de 2008.',
+    },
+    {
+      referencia:
+        'Sostenibilidad para todos. (2020, 21 Julio). ¿Qué pasa si aumenta la temperatura del planeta solo medio grado más?',
+      link:
+        'https://www.sostenibilidad.com/cambio-climatico/que-pasa-aumenta-temperatura-del-planeta-medio-grado/',
+    },
+    {
+      referencia: 'Timetoast (2020). Línea de tiempo de cumbres ambientales.',
+      link: 'https://www.timetoast.com/timelines/estocolmo',
+    },
   ],
   glosario: [
     {
@@ -303,7 +317,7 @@ export default {
     {
       termino: 'Evaporación potencial',
       significado:
-        '“Cantidad de vapor de agua que puede ser emitida por una superficie de agua pura, por unidad de superficie y por unidad de tiempo, en las condiciones atmosféricas existentes”. (IDEAM, 2019)',
+        '“cantidad de vapor de agua que puede ser emitida por una superficie de agua pura, por unidad de superficie y por unidad de tiempo, en las condiciones atmosféricas existentes”. (IDEAM, 2019)',
     },
     {
       termino: 'Fuente de emisión',
@@ -436,9 +450,9 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'María Camila García Santamaria',
         cargo: 'Líder del equipo',
-        centro: 'Dirección General',
+        centro: 'Dirección general',
       },
     ],
     contenidoInstruccional: [
@@ -505,13 +519,24 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'María Eugenia Mejia Lopez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
