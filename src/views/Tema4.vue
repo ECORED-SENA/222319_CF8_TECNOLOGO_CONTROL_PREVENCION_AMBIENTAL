@@ -347,7 +347,7 @@
             .row.justify-content-center.mt-3
               .col-lg-8
                 .jumbotron-4.p-3
-                  p (Ministerio para la Transición Ecológica y el Reto Demográfico, 2016)
+                  p (Ministerio de Medio Ambiente. Gobierno de Chile, 2018)
               .col-lg-4
                 
           .col-lg-4
@@ -377,7 +377,7 @@
     p Principales afectaciones en la salud y el ambiente por contaminantes: 
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-up")
-      div(titulo="Material Particulado (MP).")
+      div(titulo="Material particulado (MP).")
         .row.align-items-center.justify-content-center.p-4
           .col-lg-12
             p.mb-3 Por su tamaño, estas partículas son capaces de ingresar al sistema respiratorio, provocando potenciales daños a sus órganos principales. Mientras menor sea su diámetro, mayor será el potencial de daño a la salud humana. Las partículas de MP2,5 penetran hasta los alvéolos pulmonares e ingresan directamente al torrente sanguíneo, aumentando los riesgos de mortalidad prematura. En general, el MP puede también dañar las plantas, inhibir el crecimiento de la vegetación y corroer materiales.

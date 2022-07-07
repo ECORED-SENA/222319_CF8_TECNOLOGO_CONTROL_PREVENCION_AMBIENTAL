@@ -122,7 +122,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.1',
-            titulo: '6.1 Contaminación y calidad ambiental',
+            titulo: 'Contaminación y calidad ambiental',
             hash: 't_6_1',
           },
           {
@@ -134,7 +134,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.3',
-            titulo: '6.3 Calidad del aire y su normativa',
+            titulo: 'Calidad del aire y su normativa',
             hash: 't_6_3',
           },
           {
@@ -450,7 +450,7 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'María Camila García Santamaria',
+        nombre: 'María Camila García Santamaría',
         cargo: 'Líder del equipo',
         centro: 'Dirección general',
       },
@@ -502,7 +502,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
+        nombre: 'Leyson Fabian Castaño Pérez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
@@ -536,7 +536,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'María Eugenia Mejia Lopez',
+        nombre: 'María Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -544,7 +544,7 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
+        nombre: 'Álvaro Andrés Angarita Ramírez',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },

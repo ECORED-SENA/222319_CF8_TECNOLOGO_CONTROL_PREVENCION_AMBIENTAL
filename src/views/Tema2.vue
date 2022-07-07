@@ -149,7 +149,7 @@
               img(src="@/assets/curso/images/tema2/ico_17.svg",  alt='', style="width:160px; display:block; margin:auto 0 ;")
 
           .col-md-6.lg-6
-            p La conferencia de las partes en calidad de reunión en el Protocolo de Kioto (CP/RP) adopta la enmienda de Doha al Protocolo en la RP8. La enmienda incluye nuevos compromisos de las partes del anexo I en el Protocolo, que acordaron asumir compromisos en el segundo Periodo de compromiso, del 1 de enero de 2013 al 31 de diciembre de 2020; una lista revisada de gases de efecto invernadero de la que informarán las partes en el segundo Periodo de compromiso; y enmiendas a varios artículos del Protocolo que se refieren al primer Periodo de compromiso y que deben actualizarse para el segundo.
+            p La conferencia de las partes en calidad de reunión en el Protocolo de Kioto (CP/RP) adopta la enmienda de Doha al Protocolo en la RP8. La enmienda incluye nuevos compromisos de las partes del anexo I en el Protocolo, que acordaron asumir compromisos en el segundo Período de compromiso, del 1 de enero de 2013 al 31 de diciembre de 2020; una lista revisada de gases de efecto invernadero de la que informarán las partes en el segundo Período de compromiso; y enmiendas a varios artículos del Protocolo que se refieren al primer Período de compromiso y que deben actualizarse para el segundo.
                   
         .row.justify-content-center.align-items-center(titulo="2013")
           .col-6.col-lg-4.mb-4.mb-lg-0
@@ -181,7 +181,7 @@
     .row.align-items-center.align-items-center.my-5
       .col-lg-12
         TabsA.color-acento-contenido(data-aos="fade")
-          .tarjeta.back-tab.px-5.py-4(titulo="¿Qué es protocolo de Kioto?")
+          .tarjeta.back-tab.px-5.py-4(titulo="1. ¿Qué es protocolo de Kioto?")
             .row.px-2.py-2.justify-content-center
               .col-lg-2.mb-3
                 img.mt-4(src="@/assets/curso/images/tema2/ico_21.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")

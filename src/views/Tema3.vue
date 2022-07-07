@@ -56,11 +56,11 @@
               .col-lg-2
                 img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
 
-          .tarjeta.back-tab.px-5.py-4(titulo="Tropósfera")
+          .tarjeta.back-tab.px-5.py-4(titulo="Troposfera")
             .row.px-2.py-2.justify-content-center
               .col-lg-12
                 h3 Troposfera
-                p.mb-3 “La primera de las capas de la atmosfera es la troposfera y es la más cercana a la superficie terrestre y, por lo tanto, es en aquella capa en la que vivimos nosotros. Se extiende desde el nivel del mar hasta más o menos unos 10-15 km de altura. Es en la tropósfera donde se desarrolla la vida en el planeta. Más allá de la troposfera las condiciones no permiten el desarrollo de la vida. La temperatura y la presión atmosférica van disminuyendo en la troposfera conforme vamos incrementando la altura en la que nos encontramos”. (Portillo, 2021)
+                p.mb-3 “La primera de las capas de la atmósfera es la troposfera y es la más cercana a la superficie terrestre y, por lo tanto, es en aquella capa en la que vivimos nosotros. Se extiende desde el nivel del mar hasta más o menos unos 10-15 km de altura. Es en la troposfera donde se desarrolla la vida en el planeta. Más allá de la troposfera las condiciones no permiten el desarrollo de la vida. La temperatura y la presión atmosférica van disminuyendo en la troposfera conforme vamos incrementando la altura en la que nos encontramos”. (Portillo, 2021)
             .row.align-items-center
               .col-lg-10
               .col-lg-2
@@ -89,7 +89,7 @@
             .row.px-2.py-2.justify-content-center
               .col-lg-12
                 h3 Termosfera
-                p.mb-3 “Es la capa de la atmósfera más amplia. Se extiende desde los 80-90 km hasta los 640 km. A estas alturas ya apenas queda aire y las partículas que existen en esta capa se ionizan por la radiación ultravioleta. A esta capa también se le llama ionosfera debido a las colisiones de los iones que tienen lugar en ella. La ionosfera tiene gran influencia en la propagación de las ondas de radio. Una parte de la energía radiada por un transmisor hacia la ionósfera es absorbida por el aire ionizado y otra es refractada, o desviada, de nuevo hacia la superficie de la tierra”.
+                p.mb-3 “Es la capa de la atmósfera más amplia. Se extiende desde los 80-90 km hasta los 640 km. A estas alturas ya apenas queda aire y las partículas que existen en esta capa se ionizan por la radiación ultravioleta. A esta capa también se le llama ionosfera debido a las colisiones de los iones que tienen lugar en ella. La ionosfera tiene gran influencia en la propagación de las ondas de radio. Una parte de la energía radiada por un transmisor hacia la ionosfera es absorbida por el aire ionizado y otra es refractada, o desviada, de nuevo hacia la superficie de la tierra”.
 
                 p.mb-2 La temperatura en la termosfera es muy alta, llegando a ser de hasta miles de grados Celsius. Todas las partículas que se encuentran en la termosfera están altamente cargadas de energía proveniente de los rayos del sol.
                 p (Portillo, 2021)
@@ -98,7 +98,7 @@
             .row.px-2.py-2.justify-content-center
               .col-lg-12
                 h3 Exosfera
-                p.mb-3 “La última de las capas de la atmosfera es la exosfera. Esta es la capa más alejada de la superficie terrestre y, debido a su altura, es la más indefinida y por eso no es en sí considerada una capa de la atmósfera. Más o menos se extiende entre los 600-800 km de altura hasta los 9.000-10.000 km. Esta capa de la atmósfera es la que separa el planeta tierra del espacio exterior y en ella los átomos se escapan. Está compuesta en su mayoría de hidrógeno”.
+                p.mb-3 “La última de las capas de la atmósfera es la exosfera. Esta es la capa más alejada de la superficie terrestre y, debido a su altura, es la más indefinida y por eso no es en sí considerada una capa de la atmósfera. Más o menos se extiende entre los 600-800 km de altura hasta los 9.000-10.000 km. Esta capa de la atmósfera es la que separa el planeta tierra del espacio exterior y en ella los átomos se escapan. Está compuesta en su mayoría de hidrógeno”.
                 p (Portillo, 2021)
 
     .row.align-items-center.aling.my-5
@@ -271,9 +271,9 @@
 
                   p.mb-2 Dependiendo de la relación que estas tengan con diversas materias o elementos, también se clasifican con el alfabeto griego para diferenciarlas técnicamente en:
 
-                  p.mb-2 alfa: con capacidad limitada de penetración en la materia, pero mucha intensidad energética.
-                  p.mb-2 beta: algo más penetrantes, pero menos intensas que las radiaciones alfa.
-                  p.mb-2 gamma: es la radiación más penetrante de todas.
+                  p.mb-2 Alfa: con capacidad limitada de penetración en la materia, pero mucha intensidad energética.
+                  p.mb-2 Beta: algo más penetrantes, pero menos intensas que las radiaciones alfa.
+                  p.mb-2 Gamma: es la radiación más penetrante de todas.
 
                   p.mb-2 (Foro Nuclear, 2020)
 

@@ -132,7 +132,7 @@
                 img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h4 ¿Qué esperar?
-                p.mb-3 Las repercusiones a nivel ecosistémico, en el agua, aire y suelo, se ven impactadas a tal nivel que los cambios del comportamiento del hombre en su día a día se ven reflejados en sus acciones extractivas de los recursos naturales, lo que aumenta a medida que se presentan más y más cambios atmosféricos en nuestro planeta.
+                p.mb-3 Según el portal www.sostenibilidad.com el incremento de la temperatura del planeta por consecuencia de la actividad antrópica produciría “un alarmante aumento del nivel del mar, lo que expondría a 69 millones de personas a catástrofes como inundaciones en las zonas de costa”.
             .row.align-items-center
               .col-lg-10
               .col-lg-2

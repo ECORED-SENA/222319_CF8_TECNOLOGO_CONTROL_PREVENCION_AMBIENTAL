@@ -81,7 +81,7 @@
             h3.mb-5 El origen del calentamiento global 
             img.mt-3(src="@/assets/curso/images/tema5/img_3.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
           .col-lg-9
-            p.mb-3 Para entender el concepto de calentamiento global, es importante reconocer cuál es el origen cronológico que inició este fenómeno que impacta de manera importante nuestro planeta. El portal climate.nasa.gov establece el siguiente argumento:
+            p.mb-3 Para entender el concepto de calentamiento global, es importante reconocer cuál es el origen cronológico que inició este fenómeno que impacta de manera importante nuestro planeta. El portal <a href="https://climate.nasa.gov/"target="_blank"> climate.nasa.gov </a> establece el siguiente argumento:
 
             p.mb-3 “Es razonable suponer que los cambios en la producción de energía del sol causarían el cambio climático, ya que el sol es la fuente de energía fundamental que rige nuestro sistema climático”.
 
@@ -146,7 +146,7 @@
     .row.aling.my-5   
       .col-lg-10
         h3.mb-3 2016, el año más cálido registrado
-        p Según el portal www.conservation.org, los datos de la NASA y la Administración Nacional Oceánica y Atmosférica (NOAA) muestran que los promedios globales en 2016 fueron 0.99 ºC más cálidos que el promedio de mediados del siglo XX. Diecisiete de los 18 años más cálidos de la historia han ocurrido desde el año 2000.     
+        p Según el portal <a href="https:www.conservation.org/"target="_blank">  www.conservation.org, </a> los datos de la NASA y la Administración Nacional Oceánica y Atmosférica (NOAA) muestran que los promedios globales en 2016 fueron 0.99 ºC más cálidos que el promedio de mediados del siglo XX. Diecisiete de los 18 años más cálidos de la historia han ocurrido desde el año 2000.     
         p (Conservación Internacional, 2019)
     
     SlyderE.color-custom-8.p-4.mb-5(indicadores="derecha")(data-aos="zoom-in-down")
