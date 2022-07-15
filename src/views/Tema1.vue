@@ -16,11 +16,11 @@
         ul.lista-ul
           li.mb-0 
             i.fas.fa-check.c-check
-            | ¿Sabe por qué al planeta tierra se le llama así? Según el portal BBC News Mundo (2014), el término en español proviene del latín <i>"terra"</i>, con el mismo significado que en español y relacionado con el verbo "torror", que significa “secar” o “chamuscar”. Se piensa que quizás se debe a que, en la filosofía presocrática, una línea de pensamiento era que la tierra provenía del agua que se secó.
+            | ¿Sabe por qué al planeta tierra se le llama así? Según el portal BBC News Mundo (2014), el término en español proviene del latín "terra", con el mismo significado que en español y relacionado con el verbo "torror", que significa “secar” o “chamuscar”. Se piensa que quizás se debe a que, en la filosofía presocrática, una línea de pensamiento era que la tierra provenía del agua que se secó.
 
-          p.my-3.mx-4 En inglés, la palabra <i>"Earth"</i> se deriva de la germana <i>"erde"</i>, que significa "suelo".
+          p.my-3.mx-4 En inglés, la palabra "Earth" se deriva de la germana "erde", que significa "suelo".
           p.mb-3.mx-4 Las raíces de esas palabras datan de una época en que la humanidad aún no sabía que la tierra era un planeta. 
-          p.mb-0.mx-4 Las palabras solo significaban el suelo bajo sus pies y fueron adoptadas como el nombre del planeta después. 
+          p.mb-0.mx-4 Las palabras sólo significaban el suelo bajo sus pies y fueron adoptadas como el nombre del planeta después. 
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10
@@ -29,9 +29,9 @@
             i.fas.fa-check.c-check
             p <b> Relación hombre-ecosistema </b>
 
-        p.mb-3 La relación intrínseca de los ecosistemas y el hombre se convierte en vital para que la especie pueda mantenerse y evolucionar en el tiempo, pero depende inevitablemente del equilibrio frágil que hay entre la naturaleza y lo que el hombre extrae y necesita de ella, según el portal www.ecocolmena.com
+        p.mb-3 La relación intrínseca de los ecosistemas y el hombre se convierte en vital para que la especie pueda mantenerse y evolucionar en el tiempo, pero depende inevitablemente del equilibrio frágil que hay entre la naturaleza y lo que el hombre extrae y necesita de ella, según el portal ecocolmena.com. 
 
-        p.mb-3 La película <i>The Happening</i> (El Incidente / El fin de los tiempos), de M. Night Shyamalan, retomó una frase atribuida a Albert Einstein que dice “Si la abeja desapareciera del planeta, al hombre solo le quedarían 4 años de vida”. 
+        p.mb-3 La película The Happening (El Incidente / El fin de los tiempos), de M. Night Shyamalan, retomó una frase atribuida a Albert Einstein que dice “Si la abeja desapareciera del planeta, al hombre solo le quedarían 4 años de vida”. 
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4(data-aos="fade-right") 
@@ -126,13 +126,13 @@
               .col-lg-10
               .col-lg-2
                 img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
-          .tarjeta.back-tab.px-5.py-4(titulo="¿Qué esperar?")
+          .tarjeta.back-tab.px-5.py-4(titulo="¿Qué esperar?:")
             .row.px-2.py-2.justify-content-center
               .col-lg-2.mb-3
                 img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h4 ¿Qué esperar?
-                p.mb-3 Según el portal www.sostenibilidad.com el incremento de la temperatura del planeta por consecuencia de la actividad antrópica produciría “un alarmante aumento del nivel del mar, lo que expondría a 69 millones de personas a catástrofes como inundaciones en las zonas de costa”.
+                p.mb-3 Las repercusiones a nivel ecosistémico, en el agua, aire y suelo, se ven impactadas a tal nivel que los cambios del comportamiento del hombre en su día a día se ven reflejados en sus acciones extractivas de los recursos naturales, lo que aumenta a medida que se presentan más y más cambios atmosféricos en nuestro planeta.
             .row.align-items-center
               .col-lg-10
               .col-lg-2
@@ -143,22 +143,21 @@
                 img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h4 Lo irreversible
-                p.mb-3 La pérdida de biodiversidad que padeceríamos con el aumento a 1.5 °C sería catastrófica, pero si el ascenso es a 2 °C, el problema sería completamente irreversible por la desaparición de especies de plantas, animales, insectos, e incluso la muerte de casi la totalidad de los arrecifes de coral”.
-
-                p.mb-0 “Con un aumento de la temperatura del planeta de 2 °C, el 13 % de la superficie terrestre sufriría estos cambios, por ejemplo, de tundra a bosque,lo que supondría desajustes irreversibles en su flora y su fauna.
-              
+                p.mb-3 “En el Acuerdo de París ratificado en 2015, la mayoría de países del mundo (196 partes, para ser más exactos) acordaron mantener por debajo de 2 °C el incremento de la temperatura global del planeta y hacer esfuerzos para limitarlo a 1.5 °C. 
+                
+                p La fecha fijada para llegar a estos objetivos es 2050. Pero la realidad es que, a este paso, en algo más de 20 años habremos superado el primero de los límites.”
 
             .row.align-items-center
               .col-lg-10
               .col-lg-2
                 img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
-          .tarjeta.back-tab.px-5.py-4(titulo="¿Alguna esperanza?")
+          .tarjeta.back-tab.px-5.py-4(titulo="Responsabilidad de las economías:")
             .row.px-2.py-2.justify-content-center
               .col-lg-2.mb-3
                 img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h4 ¿Alguna esperanza?
-                p.mb-3 Si el aumento de la temperatura planetaria es de 1.5 °C, este riesgo se reduce al 4 % del área terrestre; a mayor temperatura, mayor impacto en el permafrost del Ártico, que se descongelaría entre un 35 % y un 47 % con una subida de 2 °C, reduciéndose al 21 % en caso de que el aumento de la temperatura del planeta que padezcamos sea de 1.5 °C.”
+                p.mb-3 Las repercusiones a nivel ecosistémico, en el agua, aire y suelo, se ven impactadas a tal nivel que los cambios del comportamiento del hombre en su día a día se ven reflejados en sus acciones extractivas de los recursos naturales, lo que aumenta a medida que se presentan más y más cambios atmosféricos en nuestro planeta.
             .row.align-items-center
               .col-lg-10
               .col-lg-2

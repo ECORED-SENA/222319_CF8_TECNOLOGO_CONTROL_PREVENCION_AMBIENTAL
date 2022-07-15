@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Diagnosticar e interpretar resultados de contaminación atmosférica según normativa vigente',
+      'Diagnosticar e interpretar resultados de contaminación atmosférica según normativa vigente.',
     descripcionCurso:
       'Con el estudio de este componente, el aprendiz podrá favorecer procesos de comprensión, análisis y aplicación de diagnósticos de la problemática ambiental y de interpretación de mediciones de contaminación atmosférica, basándose en procedimientos técnicos y normativa ambiental vigente.',
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
@@ -62,7 +62,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Orígenes de contaminación y fuentes de emisiones',
+        titulo: 'Bases conceptuales',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -122,7 +122,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.1',
-            titulo: 'Contaminación y calidad ambiental',
+            titulo: '6.1 Contaminación y calidad ambiental',
             hash: 't_6_1',
           },
           {
@@ -134,13 +134,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.3',
-            titulo: 'Calidad del aire y su normativa',
+            titulo: '6.3 Calidad del aire y su normativa',
             hash: 't_6_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '6.4',
-            titulo: 'Fuentes fijas ',
+            titulo: '6.4 Fuentes fijas ',
             hash: 't_6_4',
           },
           {
@@ -288,20 +288,6 @@ export default {
         'Portillo, G. (2021, 15 abril). Capas de la atmósfera. Meteorología en Red. ',
       link: 'https://www.meteorologiaenred.com/capas-atmosfera.html',
     },
-    {
-      referencia:
-        'Resolución 909 de 2008. [Ministerio de Ambiente, Vivienda y Desarrollo Territorial]. Por la cual se establecen las normas y estándares de emisión admisibles de contaminantes a la atmósfera por fuentes fijas y se dictan otras disposiciones. Junio 05 de 2008.',
-    },
-    {
-      referencia:
-        'Sostenibilidad para todos. (2020, 21 Julio). ¿Qué pasa si aumenta la temperatura del planeta solo medio grado más?',
-      link:
-        'https://www.sostenibilidad.com/cambio-climatico/que-pasa-aumenta-temperatura-del-planeta-medio-grado/',
-    },
-    {
-      referencia: 'Timetoast (2020). Línea de tiempo de cumbres ambientales.',
-      link: 'https://www.timetoast.com/timelines/estocolmo',
-    },
   ],
   glosario: [
     {
@@ -317,7 +303,7 @@ export default {
     {
       termino: 'Evaporación potencial',
       significado:
-        '“cantidad de vapor de agua que puede ser emitida por una superficie de agua pura, por unidad de superficie y por unidad de tiempo, en las condiciones atmosféricas existentes”. (IDEAM, 2019)',
+        '“Cantidad de vapor de agua que puede ser emitida por una superficie de agua pura, por unidad de superficie y por unidad de tiempo, en las condiciones atmosféricas existentes”. (IDEAM, 2019)',
     },
     {
       termino: 'Fuente de emisión',
@@ -377,72 +363,52 @@ export default {
   ],
   complementario: [
     {
-      tema: ' Comprensión de la problemática atmosférica”',
-      referencia:
-        'El Ciudadano TV. (2019, 25 agosto). Hace 40 años predijeron el calentamiento global',
+      texto: ' Comprensión de la problemática atmosférica”',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1nhyQiWmVio',
     },
     {
-      tema: '3. Bases conceptuales',
-      referencia:
-        'Corporación Educativa Indoamericana. (2020, 21 febrero). Meteorología Atmósfera',
+      texto: '3. Bases conceptuales',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aVG5qAFP4x8',
     },
     {
-      tema: 'Bases conceptuales',
-      referencia:
-        'Escola Port. (2016, 8 febrero). PER 5.1 METEOROLOGÍA (Escola Port Barcelona, 2012) ',
+      texto: 'Bases conceptuales',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qUtW0k6xo3E',
     },
     {
-      tema: 'Orígenes de contaminación y fuentes de emisiones',
-      referencia:
-        'AFP Español. (2016, 27 septiembre). La contaminación del aire',
+      texto: 'Orígenes de contaminación y fuentes de emisiones',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aaOiL7CQd74',
     },
     {
-      tema: 'Orígenes de contaminación y fuentes de emisiones',
-      referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible - Colombia. (2017, 11 agosto). Todo lo que debes saber sobre la calidad del aire',
+      texto: 'Orígenes de contaminación y fuentes de emisiones',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=FtKg9zJ6oNQ',
     },
     {
-      tema: '4. Orígenes de contaminación y fuentes de emisiones',
-      referencia:
-        'AmbienteBogota. (2015, 18 junio). Secretaría de Ambiente lanza sistema que alerta el estado de calidad del aire en Bogotá ',
+      texto: '4. Orígenes de contaminación y fuentes de emisiones',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aW8Wuxxbv6E',
     },
     {
-      tema: 'Problemáticas ambientales',
-      referencia:
-        'Historia para melones. (2017, 29 noviembre). La contaminación atmosférica',
+      texto: 'Problemáticas ambientales',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=JsBSJE_TCOA',
     },
     {
-      tema: 'Problemáticas ambientales',
-      referencia:
-        'Facultad Online. (2018, 8 octubre). Efecto Invernadero | Explicación y cómo combatirlo!!',
+      texto: 'Problemáticas ambientales',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=eJrAvZRWKgY',
     },
     {
-      tema: 'Marco normativo',
-      referencia:
-        'Corantioquiaoficial. (2015, 13 julio). Programa de Gestión de Calidad del Aire',
+      texto: 'Marco normativo',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=yn3ubk_CABo',
     },
     {
-      tema: 'Marco normativo',
-      referencia:
-        'Corantioquiaoficial. (2016, 16 octubre). Control a Fuentes Móviles',
+      texto: 'Marco normativo',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rvAYPKtN7mg',
     },
@@ -450,9 +416,9 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'María Camila García Santamaría',
+        nombre: 'Maria Camila Garcia Santamaria',
         cargo: 'Líder del equipo',
-        centro: 'Dirección general',
+        centro: 'Dirección General',
       },
     ],
     contenidoInstruccional: [
@@ -502,7 +468,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Pérez',
+        nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
@@ -519,24 +485,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Wilson Andrés Arenales Cáceres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy María Ruíz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'María Eugenia Mejía López',
+        nombre: 'Nombre',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -544,7 +499,7 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramírez',
+        nombre: 'Álvaro Andrés Angarita Ramirez',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
