@@ -51,9 +51,9 @@
               .lista-ol--cuadro__vineta
                 span 2
               p.mb-5 Durante esta nueva campaña se harán llamados a gobernadores y alcaldes para participar en un reconocimiento especial por su compromiso climático. Además, se abrirá la convocatoria para que jóvenes y mujeres presenten ideas o emprendimientos que busquen la protección del clima y del medioambiente y que, de esta manera, puedan contar con el respaldo del PNUD.
-      .row.justify-content-center.mt-3
+      .row.justify-content-end.mt-3
         .col-lg-8 
-        .col-lg-4 
+        .col-lg-3
           .jumbotron-4.p-4
             p.text-center (Foros Semana, 2020)
 
@@ -64,39 +64,40 @@
 
     p.mb-5 Uno de los principales factores que influyen en las diversas problemáticas ambientales es lo que conocemos actualmente como el cambio climático. A continuación, se presentan los conceptos relacionados con estas problemáticas:
 
+    .row.justify-content-center.align-items-center.my-5
+      .col-lg-12-lg-0
+        .tarjeta.bg_grad-02.p-4.mb-5(data-aos="zoom-in-up")
+          SlyderA
+            .row.justify-content-center.align-items-center.p-5
+              .col-lg-3
+                h3.mb-5 Cambio climático
+                img.mt-3(src="@/assets/curso/images/tema5/img_2.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
+              .col-lg-9
+                p.mb-3 Según el IDEAM, el concepto de cambio climático se define así:
+                p.mb-3 “En el sentido más general, el término "cambio climático" abarca todas las formas de inconstancia climática (esto es, cualesquiera diferencias entre las estadísticas a largo plazo de los elementos meteorológicos calculados para distintos periodos, pero respecto a la misma zona), con independencia de su carácter estadístico o sus causas físicas. Los cambios climáticos pueden resultar de factores tales como los cambios de la emisión solar, los cambios a largo plazo de elementos de la órbita terrestre (excentricidad, oblicuidad de la eclíptica, precesión de los equinoccios), los procesos internos naturales del sistema climático o el forzamiento antropogénico (por ejemplo, aumento de las concentraciones atmosféricas de dióxido carbónico o de otros gases de efecto invernadero)”. (IDEAM, 2019)
+                p.mb-3 “El término "cambio climático" se utiliza a menudo en un sentido más limitado para designar un cambio significativo (esto es, un cambio que tiene efectos económicos, medioambientales y sociales importantes) en los valores medios de un elemento meteorológico (en particular de la temperatura o la cantidad de precipitación) en el curso de un periodo dado, tomando las medias en duraciones del orden del decenio o más”. (IDEAM, 2019)
 
-    .tarjeta.bg_grad-02.p-4.mb-5(data-aos="zoom-in-up")
-      SlyderA
-        .row.justify-content-center.align-items-center.p-5
-          .col-lg-3
-            h3.mb-5 Cambio climático
-            img.mt-3(src="@/assets/curso/images/tema5/img_2.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-9
-            p.mb-3 Según el IDEAM, el concepto de cambio climático se define así:
-            p.mb-3 “En el sentido más general, el término "cambio climático" abarca todas las formas de inconstancia climática (esto es, cualesquiera diferencias entre las estadísticas a largo plazo de los elementos meteorológicos calculados para distintos periodos, pero respecto a la misma zona), con independencia de su carácter estadístico o sus causas físicas. Los cambios climáticos pueden resultar de factores tales como los cambios de la emisión solar, los cambios a largo plazo de elementos de la órbita terrestre (excentricidad, oblicuidad de la eclíptica, precesión de los equinoccios), los procesos internos naturales del sistema climático o el forzamiento antropogénico (por ejemplo, aumento de las concentraciones atmosféricas de dióxido carbónico o de otros gases de efecto invernadero)”. (IDEAM, 2019)
-            p.mb-3 “El término "cambio climático" se utiliza a menudo en un sentido más limitado para designar un cambio significativo (esto es, un cambio que tiene efectos económicos, medioambientales y sociales importantes) en los valores medios de un elemento meteorológico (en particular de la temperatura o la cantidad de precipitación) en el curso de un periodo dado, tomando las medias en duraciones del orden del decenio o más”. (IDEAM, 2019)
+            .row.justify-content-center.align-items-center.p-5
+              .col-lg-3
+                h3.mb-5 El origen del calentamiento global 
+                img.mt-3(src="@/assets/curso/images/tema5/img_3.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
+              .col-lg-9
+                p.mb-3 Para entender el concepto de calentamiento global, es importante reconocer cuál es el origen cronológico que inició este fenómeno que impacta de manera importante nuestro planeta. El portal climate.nasa.gov establece el siguiente argumento:
 
-        .row.justify-content-center.align-items-center.p-5
-          .col-lg-3
-            h3.mb-5 El origen del calentamiento global 
-            img.mt-3(src="@/assets/curso/images/tema5/img_3.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-9
-            p.mb-3 Para entender el concepto de calentamiento global, es importante reconocer cuál es el origen cronológico que inició este fenómeno que impacta de manera importante nuestro planeta. El portal climate.nasa.gov establece el siguiente argumento:
+                p.mb-3 “Es razonable suponer que los cambios en la producción de energía del sol causarían el cambio climático, ya que el sol es la fuente de energía fundamental que rige nuestro sistema climático”.
 
-            p.mb-3 “Es razonable suponer que los cambios en la producción de energía del sol causarían el cambio climático, ya que el sol es la fuente de energía fundamental que rige nuestro sistema climático”.
+                p.mb-3 De hecho, los estudios muestran que la variabilidad solar ha desempeñado un papel importante en cambios climáticos pasados. Por ejemplo, se cree que una disminución en la actividad solar, junto con un aumento en la actividad volcánica, ayudó a desencadenar la pequeña edad de hielo que tuvo lugar aproximadamente entre 1650 y 1850, cuando Groenlandia se enfrió desde 1410 hasta la década de 1720 y los glaciares avanzaron en Los Alpes.
 
-            p.mb-3 De hecho, los estudios muestran que la variabilidad solar ha desempeñado un papel importante en cambios climáticos pasados. Por ejemplo, se cree que una disminución en la actividad solar, junto con un aumento en la actividad volcánica, ayudó a desencadenar la pequeña edad de hielo que tuvo lugar aproximadamente entre 1650 y 1850, cuando Groenlandia se enfrió desde 1410 hasta la década de 1720 y los glaciares avanzaron en Los Alpes.
+            .row.justify-content-center.align-items-center.p-5
+              .col-lg-3
+                h3.mb-5 Otras miradas
+                img.mt-3(src="@/assets/curso/images/tema5/img_4.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
+              .col-lg-9
+                p.mb-3 Pero varias líneas de evidencia muestran que el calentamiento global actual no se puede explicar mediante los cambios en la energía del sol:
+                p.mb-3 Desde 1750, la cantidad promedio de energía procedente del sol se mantuvo constante o se incrementó levemente.
+                p.mb-3 Si el calentamiento fuera causado por una mayor actividad del sol, entonces los científicos esperarían ver temperaturas más calientes en todas las capas de la atmósfera. Sin embargo, han observado un enfriamiento en la parte superior de la atmósfera y un calentamiento en la superficie y en partes más bajas de esta capa. Esto se debe a que los gases del efecto invernadero están atrapando calor en la parte más baja de la atmósfera. Los modelos del clima que incluyen cambios en la radiación solar no pueden reproducir la tendencia de temperatura observada durante el último siglo o más sin incluir un aumento de los gases de efecto invernadero”.
 
-        .row.justify-content-center.align-items-center.p-5
-          .col-lg-3
-            h3.mb-5 Otras miradas
-            img.mt-3(src="@/assets/curso/images/tema5/img_4.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-9
-            p.mb-3 Pero varias líneas de evidencia muestran que el calentamiento global actual no se puede explicar mediante los cambios en la energía del sol:
-            p.mb-3 Desde 1750, la cantidad promedio de energía procedente del sol se mantuvo constante o se incrementó levemente.
-            p.mb-3 Si el calentamiento fuera causado por una mayor actividad del sol, entonces los científicos esperarían ver temperaturas más calientes en todas las capas de la atmósfera. Sin embargo, han observado un enfriamiento en la parte superior de la atmósfera y un calentamiento en la superficie y en partes más bajas de esta capa. Esto se debe a que los gases del efecto invernadero están atrapando calor en la parte más baja de la atmósfera. Los modelos del clima que incluyen cambios en la radiación solar no pueden reproducir la tendencia de temperatura observada durante el último siglo o más sin incluir un aumento de los gases de efecto invernadero”.
-
-            p.mb-3 (NASA, 2021)
+                p.mb-3 (NASA, 2021)
 
 
     h3 Algunas conclusiones
@@ -204,7 +205,7 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-9.p-4.mb-4.p-5
           .row.justify-content-star
-            .col-lg-2
+            .col-3.col-lg-2
               img(src="@/assets/curso/images/tema5/mega.svg").mb-3
             .col-lg-10
               h3 Para tener presente
@@ -356,22 +357,12 @@
 
 
 
-
-
-
-
-
-
-
-
 </template>
 
 <script>
 export default {
   name: 'Tema3',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -382,5 +373,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>

@@ -1,6 +1,79 @@
+.banner-principal-decorativo
+  &-1
+    animation: rotation 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 75%
+    right: 83%
+  &-2
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 4%
+    right: 75%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    right: 28%
+  &-4
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 65%
+  &-5
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 5%
+  
+@keyframes rotation
+  from 
+    transform: rotate(0deg)
+  to 
+    transform: rotate(359deg)
+ 
+@keyframes float1
+  0%
+    transform: translateY(70px)
+
+  100%
+    transform: translateY(0px)
+  
+.banner-interno
+  height: 114px
+.banner-principal .tarjeta
+  background-position: inherit !important
+.titulo-principal__numero
+  background-color: #EB6F2D !important
+.titulo-principal__numero span
+  color: #fff !important
+.curso-main-container > .container
+  overflow-x: clip !important
+.titulo-segundo:after
+  border-left-color: #EB6F2D !important
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #12263F !important
+.banner-principal__img img
+  max-width: 500px !important
+  display: inline
+  position: relative
+  bottom: -6px
+.d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
+  padding: 0 !important
+  text-align: center
+
 .banner-interno__fondo
   background-image: url("../assets/curso/images/header/interno.svg") !important
   background-repeat: no-repeat 
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+  color: #fff !important
+
+.titulo-principal__numero   
+  background-color: #80CAB6 !important
+
+.titulo-principal__numero span 
+  color: #000!important
+
   
 .cs
   overflow-y: hidden
@@ -27,6 +100,9 @@
 
 .color-custom-5
   background-color:  #EFF3E4
+  @media screen and (max-width: 412px)
+    padding: 0 !important
+
 
 .color-custom-6
 	&::before
@@ -94,11 +170,77 @@
 .tabs-a__tab
   background-color: #E8E8E8 
 
+.modif
+  border-bottom: none
+  .tabs-c__content-item
+    background-color: #FDF0BF
+    border-radius: 20PX
+  .tabs-c__tab--active
+    background-color: #FFD400
+    border-radius: 10PX
+    padding-top: 2rem !important
+    padding-bottom: 2rem !important
+  .tabs-c__tab
+    border: 4px solid #FFD400
+    border-radius: 10px
+    margin: 10px
+    &::after
+      width: 0px
+  .tabs-c__header
+    font-size: 18px;
+    font-weight: 700;
+  &_1
+    .slyder-a__tipo-b
+      bottom: 20px
+    .slyder-a__tipo-b .slyder-a__btn--atrs
+      margin-left: 15px
+    .slyder-a__tipo-b .slyder-a__btn--sigt
+      margin-right: 15px
+  &_2
+    border-bottom: none
+    .tabs-c__content-item
+      background-color: #F1FAFE
+      border-radius: 20PX
+    .tabs-c__tab--active
+      background-color: #C5EAFB
+      border-radius: 10PX
+      padding-top: 2rem !important
+      padding-bottom: 2rem !important
+    .tabs-c__tab
+      border: 4px solid #C5EAFB
+      border-radius: 10px
+      margin: 2px
+      margin: 10px
+      &::after
+        width: 0px
+    .tabs-c__header
+      font-size: 18px;
+      font-weight: 700;
+  &_3
+    right: -29px !important
+    width: 70% !important
+    @media screen and (max-width: 420px)
+      right: 0 !important
+      width: 100% !important
+.tabs-c.color-acento-contenido .tabs-c__tab--active
+  border-bottom-color: #3BC192 !important
+  span 
+    font-weight: 700
+  &::before
+    border-top-color: #3BC192
+.tabs-c__content-item
+  background-color: #FFF
+
+.hr
+  color: 2px solid #0540B7 !important
+
 .aling
-  justify-content: center
+  justify-content: center !important
   
 .aling-1
-  margin-left: -700px
+  margin-left: -700px !important
+  @media screen and (max-width: 991px)
+    margin-left: 5% !important
 
 .boton.color-acento-contenido, .color-acento-contenido.boton--sm 
   background-color: #F1CC4B
@@ -309,9 +451,14 @@ figcaption
   background-color: #CDD3DE
   background-repeat: no-repeat
   background-size: cover
+  @media screen and (max-width: 991px)
+    margin-left: 15% !important
   @media (max-width: 992px)
     width: 390px
     margin-left: -24px
+  @media (max-width: 412px)
+    background-repeat: no-repeat
+    margin-left: -12px !important
 
 .lista-ol--cuadro__vineta 
   color: #000
@@ -356,4 +503,12 @@ figcaption
       height: 215px
       background-color: #DDE8FB
       z-index: 0
+
+.slyder-b .slyder-b__slyde .row
+@media(min-width:$bp-min-md)and(min-width:$bp-max-lg)
+  width: 97% !important 
+
+.slyder-b .slyder-b__slyde .row
+@media(max-width:$bp-max-xs)
+  width: 95% !important 
 

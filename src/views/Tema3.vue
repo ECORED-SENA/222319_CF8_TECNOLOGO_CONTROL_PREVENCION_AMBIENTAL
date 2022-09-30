@@ -9,29 +9,31 @@
 
     p.mb-5 Para continuar adentrándose en el estudio de este componente, es fundamental afianzar y reforzar algunos conceptos, términos, elementos teóricos y técnicos que tienen relación directa con el tema y que potenciarán su comprensión, asimilación y apropiación de los temas.
 
-     .bloque-texto-g.color-custom-3.p-3.p-sm-4.p-md-5.mb-5.d-none.d-lg-block
-      .bloque-texto-g__img(data-aos="fade-right")(
-        :style="{'background-image': `url(${require('@/assets/curso/images/tema3/img_1.png')})`}"
-      )
-      .bloque-texto-g__texto.p-5.m-right(data-aos="fade-left")
-        h3.mb-3 Meteorología  #[br]
-        p.mb-0 Según el Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM, la meteorología es “el estudio de la atmósfera y sus fenómenos – especialmente las condiciones del tiempo y del clima – y las aplicaciones prácticas de este estudio. Además de la física, la química y la dinámica de la atmósfera, la meteorología abarca muchos de los efectos directos de la atmósfera en la superficie de la tierra, los océanos y vida en general” (IDEAM, 2019).
+    .row.align-items-center.align-items-center.aling
+      .col-lg-10.lg-0
+        .bloque-texto-g.color-custom-3.p-3.p-sm-4.p-md-5.mb-5.d-none.d-lg-block
+          .bloque-texto-g__img(data-aos="fade-right")(
+            :style="{'background-image': `url(${require('@/assets/curso/images/tema3/img_1.png')})`}"
+          )
+          .bloque-texto-g__texto.p-5.m-right(data-aos="fade-left")
+            h3.mb-3 Meteorología  #[br]
+            p.mb-0 Según el Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM, la meteorología es “el estudio de la atmósfera y sus fenómenos – especialmente las condiciones del tiempo y del clima – y las aplicaciones prácticas de este estudio. Además de la física, la química y la dinámica de la atmósfera, la meteorología abarca muchos de los efectos directos de la atmósfera en la superficie de la tierra, los océanos y vida en general” (IDEAM, 2019).
 
-    .bloque-texto-a.color-custom-4.p-md-0.mb-5.d-block.d-lg-none
-      .row.m-4.align-items-center.justify-content-between
-        .col-lg-9(data-aos="fade-right")
-          .bloque-texto-a__texto.p-5.my-5
-            h3 Meteorología
-            p Según el Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM, la meteorología es “el estudio de la atmósfera y sus fenómenos – especialmente las condiciones del tiempo y del clima – y las aplicaciones prácticas de este estudio. Además de la física, la química y la dinámica de la atmósfera, la meteorología abarca muchos de los efectos directos de la atmósfera en la superficie de la tierra, los océanos y vida en general” (IDEAM, 2019).
-        .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
-          figure
-            img(src='@/assets/curso/images/tema3/img_1.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+        .bloque-texto-a.color-custom-4.p-md-0.mb-5.d-block.d-lg-none
+          .row.m-4.align-items-center.justify-content-between
+            .col-lg-9(data-aos="fade-right")
+              .bloque-texto-a__texto.p-5.my-5
+                h3 Meteorología
+                p Según el Instituto de Hidrología, Meteorología y Estudios Ambientales IDEAM, la meteorología es “el estudio de la atmósfera y sus fenómenos – especialmente las condiciones del tiempo y del clima – y las aplicaciones prácticas de este estudio. Además de la física, la química y la dinámica de la atmósfera, la meteorología abarca muchos de los efectos directos de la atmósfera en la superficie de la tierra, los océanos y vida en general” (IDEAM, 2019).
+            .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
+              figure
+                img(src='@/assets/curso/images/tema3/img_1.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
 
-    h3 Para poder entender la meteorología 
+    h4 Para poder entender la meteorología 
 
-    p.mb-3 Para poder entender la meteorología, es necesario comprender sus conceptos claves, como atmósfera: “envoltura gaseosa que rodea la tierra. Capa gaseosa que rodea nuestro planeta. Además de contener el aire, incluye partículas sólidas y líquidas en suspensión o aerosoles y nubes”. (IDEAM, 2019)
+    p.mb-5 Para poder entender la meteorología, es necesario comprender sus conceptos claves, como atmósfera: “envoltura gaseosa que rodea la tierra. Capa gaseosa que rodea nuestro planeta. Además de contener el aire, incluye partículas sólidas y líquidas en suspensión o aerosoles y nubes”. (IDEAM, 2019)
 
-    h3.mb-5 Formación de la atmósfera terrestre
+    h4.mb-5 Formación de la atmósfera terrestre
 
     .row.align-items-center.aling.my-5
       .col-lg-10(data-aos="zoom-in-down")
@@ -152,21 +154,21 @@
     TabsC.color-acento-contenido(data-aos="zoom-in-down")
       .py-3.py-md-4(titulo="1. Presión atmosférica")
         .row.justify-content-center
-          .col-2.col-lg-2.mb-4.mb-lg-0
+          .col-3.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/images/tema3/img_2.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-10
-            h3 Presión atmosférica
+              img(src='@/assets/curso/images/tema3/img_2.png').mb-3
+          .col-lg-9.lg-0
+            h4 Presión atmosférica
             p.mb-3 Presión (fuerza por unidad de área) ejercida por la atmósfera sobre cualquier superficie en virtud de su peso. Equivale al peso de una columna de aire de sección transversal unitaria que se extiende desde un nivel dado hasta el límite superior de la atmósfera (IDEAM, 2019). 
             p.mb-0 Las unidades de medida de la presión atmosférica se establecen en diferentes unidades dependiendo del sistema empleado, algunas de las equivalencias más utilizadas se las presentamos en los botones siguientes de esta gráfica.
 
       .py-3.py-md-4(titulo="2. Temperatura")
         .row.justify-content-center
-          .col-2.col-lg-2.mb-4.mb-lg-0
+          .col-3.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/images/tema3/img_3.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-10
-            h3 Temperatura
+              img(src='@/assets/curso/images/tema3/img_3.png').mb-3
+          .col-lg-9.lg-0
+            h4 Temperatura
             p.mb-3 Presión (fuerza por unidad de área) ejercida por la atmósfera sobre cualquier superficie en virtud de su peso. Equivale al peso de una columna de aire de sección transversal unitaria que se extiende desde un nivel dado hasta el límite superior de la atmósfera (IDEAM, 2019). 
 
             p.mb-0 Las unidades de medida de la presión atmosférica se establecen en diferentes unidades dependiendo del sistema empleado, algunas de las equivalencias más utilizadas se las presentamos en los botones siguientes de esta gráfica.
@@ -174,11 +176,11 @@
      
       .py-3.py-md-4(titulo="3. Velocidad del viento")
         .row.justify-content-center
-          .col-2.col-lg-2.mb-4.mb-lg-0
+          .col-3.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/images/tema3/img_4.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-10
-            h3 Velocidad del viento
+              img(src='@/assets/curso/images/tema3/img_4.png').mb-3
+          .col-lg-9.lg-0
+            h4 Velocidad del viento
             p.mb-3 Es la relación entre la distancia recorrida por el aire y el tiempo que tarda en recorrerla. La "velocidad instantánea" o, con mayor brevedad, la "velocidad", corresponde al caso de un intervalo de tiempo infinitamente pequeño. La "velocidad media" corresponde al caso en que el intervalo de tiempo es finito. (IDEAM, 2019).
  
             p.mb-0 La velocidad del viento mide la componente horizontal del desplazamiento del aire en un punto y en un instante determinados. La unidad de medida es habitualmente metros por segundo (m/s).
@@ -186,10 +188,10 @@
 
       .py-3.py-md-4(titulo="4. Dirección del viento")
         .row.justify-content-center
-          .col-2.col-lg-2.mb-4.mb-lg-0
+          .col-3.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/images/tema3/img_5.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-10
+              img(src='@/assets/curso/images/tema3/img_5.png').mb-3
+          .col-lg-9.lg-0
             h4 Dirección del viento"
             p.mb-3 Dirección desde la que sopla el viento. (IDEAM, 2019).
             p.mb-0 Según Guerrero (2011) “La rosa de los vientos, también llamada rosa náutica, es un instrumento marino usado en las cartas de navegación que se utiliza para representar la circunferencia del horizonte mediante el uso de 32 rombos unidos por sus extremos. Frecuentemente, también se puede ver en el mismo instrumento una flor de lis, que se utiliza para representar el norte”.
@@ -197,10 +199,10 @@
 
       .py-3.py-md-4(titulo="5. ¿Rosa de los vientos?")
         .row.justify-content-center
-          .col-2.col-lg-2.mb-4.mb-lg-0
+          .col-3.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/images/tema3/img_6.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-10
+              img(src='@/assets/curso/images/tema3/img_6.png').mb-3
+          .col-lg-9.lg-0
             h4 ¿Rosa de los vientos?
             p.mb-3 La rosa de los vientos es el instrumento que permite visualizar los puntos cardinales, donde toma como referencia el norte por los campos magnéticos que se producen en la tierra, por ende…
             p.mb-0  “Las cuatro principales y fundamentales (divisiones) indican los cuatro puntos cardinales: norte, sur, este y oeste, mediante los cuales se divide el horizonte en cuatro sectores de 90º cada uno. La recta que conecta los puntos norte y sur es llamada meridiana o línea norte-sur, la recta que une este y oeste es llamada línea este-oeste. Como resultado de las bisectrices de los ángulos rectos representados en la rosa de los vientos se observan ocho nuevas divisiones llamadas laterales, que son: noreste, sureste, suroeste y noroeste. Si se dividen nuevamente estos rumbos laterales y los cuatro principales se obtendrán ocho nuevos sectores que se llamarán: nor-noreste, este-noreste, este-sureste, sur-sureste, sur-suroeste, oeste-suroeste, oeste-noroeste y norte-noroeste.” (Guerrero, 2011)
@@ -208,20 +210,20 @@
 
       .py-3.py-md-4(titulo="6. Precipitación")
         .row.justify-content-center
-          .col-2.col-lg-2.mb-4.mb-lg-0
+          .col-3.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/images/tema3/img_7.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-10
+              img(src='@/assets/curso/images/tema3/img_7.png').mb-3
+          .col-lg-9.lg-0
             h4 Precipitación
             p.mb-3 La precipitación es la caída de partículas de agua líquida o sólida que se originan en una nube, atraviesan la atmósfera y llegan al suelo. La cantidad de precipitación es el volumen de agua lluvia que pasa a través de una superficie en un tiempo determinado. (IDEAM, 2019)
             p.mb-0 Teniendo en cuenta qué es la lluvia, a la cual se denomina técnicamente precipitación, es importante definir las unidades en las que se cuantifica. 
 
       .py-3.py-md-4(titulo="7. ¿Cómo medir la precipitación?")
         .row.justify-content-center
-          .col-2.col-lg-2.mb-4.mb-lg-0
+          .col-3.col-lg-2.mb-4.mb-lg-0
             figure
-              img(src='@/assets/curso/images/tema3/img_8.png', ,  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
-          .col-lg-10
+              img(src='@/assets/curso/images/tema3/img_8.png').mb-3
+          .col-lg-9.lg-0
             h4 ¿Cómo medir la precipitación?
             p.mb-3 …” La precipitación se mide en milímetros de agua, o litros caídos por unidad de superficie (m²), es decir, la altura de la lámina de agua recogida en una superficie plana es medida en mm o L/m².
             p.mb-3 Por ende, la cantidad de lluvia que cae en un lugar se mide por los pluviómetros. La medición se expresa en milímetros de agua y equivale al agua que se acumularía en una superficie horizontal e impermeable durante el tiempo que dure la precipitación o sólo en una parte del periodo de la misma”.
@@ -234,9 +236,9 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-2.p-4.mb-4.p-5
           .row.justify-content-star
-            .col-lg-2.col-sm-2
-              img.mx-3(src="@/assets/curso/images/tema3/ico_2.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;").mb-2
-            .col-lg-10
+            .col-5.col-lg-2.col-sm-2
+              img.mx-3(src="@/assets/curso/images/tema3/ico_2.svg").mb-2
+            .col-lg-9.lg-0
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Según el IDEAM, la evaporación del agua se relaciona en 2 conceptos
@@ -254,9 +256,9 @@
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-2.p-4.mb-4.p-5
           .row.justify-content-star
-            .col-lg-2.col-sm-2
-              img.mx-3(src="@/assets/curso/images/tema3/ico_3.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;").mb-2
-            .col-lg-10
+            .col-5.col-lg-2.col-sm-2
+              img.mx-3(src="@/assets/curso/images/tema3/ico_3.svg").mb-2
+            .col-lg-9.lg-0
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.mb-3 Finalmente, le presentamos el elemento de la Radiación: es la emisión o transferencia de energía en forma de ondas o partículas electromagnéticas. (IDEAM, 2019)
@@ -294,14 +296,19 @@
 
 
 
+
+
+
+
+
+
+
 </template>
 
 <script>
 export default {
   name: 'Tema3',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -312,5 +319,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>

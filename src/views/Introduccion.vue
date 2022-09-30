@@ -20,15 +20,14 @@
 
     .row.align-items-center.justify-content-center
       .col-lg-6(data-aos="fade-right")  
-        img(src='@/assets/curso/images/tema1/img_intro_2.png')
+        img(src='@/assets/curso/images/tema1/img_intro_2.png').mb-3
       .col-lg-6(data-aos="fade-left")
           p.mb-3 De ahí la importancia que tienen estas unidades temáticas y el desarrollo del componente formativo. La verificación de las emisiones resultantes de procesos y operaciones productivas se convierte en la base del contenido que se verá a profundidad para desarrollar el diagnóstico de la problemática atmosférica que se presenta en la organización y/o proyecto.
 
           p.mb-0 Para la elaboración de este componente, se abordaron varios autores conocidos en contaminación atmosférica, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido que el conocimiento es social y, por lo tanto, es para usarlo por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos de prevención y control ambiental.
+ 
+    
 
-
-
-      
 
 </template>
 
@@ -40,5 +39,4 @@ export default {
   }),
 }
 </script>
-
 <style lang="sass"></style>

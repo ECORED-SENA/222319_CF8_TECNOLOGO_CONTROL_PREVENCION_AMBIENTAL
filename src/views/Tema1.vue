@@ -27,7 +27,7 @@
         ul.lista-ul
           li.mb-0
             i.fas.fa-check.c-check
-            p <b> Relación hombre-ecosistema </b>
+            h4 <b> Relación hombre-ecosistema </b>
 
         p.mb-3 La relación intrínseca de los ecosistemas y el hombre se convierte en vital para que la especie pueda mantenerse y evolucionar en el tiempo, pero depende inevitablemente del equilibrio frágil que hay entre la naturaleza y lo que el hombre extrae y necesita de ella, según el portal ecocolmena.com. 
 
@@ -42,7 +42,7 @@
             ul.lista-ul
               li.mb-0 
                 i.fas.fa-check.c-check
-                | <b> Interdependencia </b>
+                h4 <b> Interdependencia </b>
 
             p.mb-3 Se puede inferir que en el planeta dependemos no solo de otras especies para sobrevivir sino que, además, las actividades antrópicas, que el hombre desarrolla (extractiva) porque su misma evolución lo lleva a consumir lo que la misma tierra le ofrece, sin pensar a largo plazo en las repercusiones generadas en los ecosistemas, llevan a que las alteraciones del ambiente produzcan los efectos que venimos viviendo en la últimas décadas.
 
@@ -53,7 +53,7 @@
             ul.lista-ul
               li.mb-0 
                 i.fas.fa-check.c-check
-                | <b>  Cambios profundos en la atmósfera </b>
+                h4 <b>  Cambios profundos en la atmósfera </b>
 
             p.mb-3 Una de las principales y más evidentes transformaciones que ha sufrido nuestro planeta se ha dado en la atmósfera. Los continuos cambios de temperatura, provocados en gran parte por el incremento del dióxido de carbono antrópico, produciendo irreversibles trastornos en los ecosistemas y cambios abruptos en diversos lugares del planeta, generan una gran incertidumbre sobre lo que viene en los próximos años.
 
@@ -69,9 +69,6 @@
         .h4.mb-0.text-white Algunas reflexiones y conclusiones sobre la problemática atmosférica
 
     p.mb-5 Conozca algunos datos conclusivos sobre la problemática atmosférica y las acciones o disposiciones o denuncias que los países, instituciones internacionales u organizaciones a nivel mundial, han proclamado en favor del cambio y de mejoras para el medio ambiente y la especie humana. Además, observe atentamente el vídeo que le presentamos.
-
-
-    p.mb-3 Conozca algunos datos conclusivos sobre la problemática atmosférica y las acciones o disposiciones o denuncias que los países, instituciones internacionales u organizaciones a nivel mundial, han proclamado en favor del cambio y de mejoras para el medio ambiente y la especie humana. Además, observe atentamente el vídeo que le presentamos.
 
     .row.align-items-center.align-items-center.my-5
       .col-lg-12
@@ -180,88 +177,9 @@
                     .row
                       .col-auto
                         img.mx-3(src="@/assets/curso/images/tema1/Ico-video.svg",  alt='', style="width:20px; display:block; margin:auto 0 ;")
-             
-    
-    
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 </template>
 
 <script>
@@ -269,7 +187,8 @@ export default {
   name: 'Tema1',
   components: {},
   data: () => ({
-    // variables de vue
+    indicadorTarjetaSlide: true,
+    indicadorTarjetaFlip: true,
   }),
   mounted() {
     this.$nextTick(() => {
@@ -281,5 +200,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>

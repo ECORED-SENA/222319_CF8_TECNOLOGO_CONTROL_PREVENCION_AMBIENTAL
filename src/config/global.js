@@ -7,6 +7,28 @@ export default {
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.png'),
     fondoBannerInterno: require('@/assets/curso/images/header/interno.svg'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/images/header/1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/images/header/2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/images/header/3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/images/header/4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/images/header/5.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -122,7 +144,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.1',
-            titulo: '6.1 Contaminación y calidad ambiental',
+            titulo: 'Contaminación y calidad ambiental',
             hash: 't_6_1',
           },
           {
@@ -134,13 +156,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.3',
-            titulo: '6.3 Calidad del aire y su normativa',
+            titulo: 'Calidad del aire y su normativa',
             hash: 't_6_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '6.4',
-            titulo: '6.4 Fuentes fijas ',
+            titulo: 'Fuentes fijas ',
             hash: 't_6_4',
           },
           {
@@ -158,12 +180,12 @@ export default {
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //  titulo: 'Actividad didáctica',
+      // desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',

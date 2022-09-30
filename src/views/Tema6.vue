@@ -54,9 +54,9 @@
 
     p.mb-3 “La contaminación atmosférica es la presencia que existe en el aire de pequeñas partículas o productos secundarios gaseosos que pueden implicar riesgo, daño o molestia para las personas, plantas y animales que se encuentran expuestas a dicho ambiente.”                     
 
-    .row.align-items-center.justify-content-center.mb-3(data-aos="zoom-in-down")    
+    .row.align-items-star.justify-content-center.mb-3(data-aos="zoom-in-down")    
       .col-lg-6.mb-3
-        img(src='@/assets/curso/images/tema6/img_2.svg' alt='', style="width:530px;")
+        img(src='@/assets/curso/images/tema6/img_2.svg')
       .col-lg-6
         .jumbotron-3.mb-3.p-4
           .row.justify-content-center.align-items-center.p-2
@@ -71,10 +71,10 @@
               li 
                 i.fas.fa-check.c-check
                 | Política para la prevención y control de la contaminación del aire.
-          .row.justify-content.mt-3.p-1
+          .row.justify-content.mt-5.p-1
             .col-lg-2
             .col-lg-10
-              p Nota. Tomada de Cárdenas (2020). Sectores Normativos.
+              p.mb-5 Nota. Tomada de Cárdenas (2020). Sectores Normativos.
     Separador
     #t_6_3.titulo-segundo
       .h2 6.3 Calidad del aire y su normativa
@@ -94,9 +94,9 @@
         .row.justify-content-center.p-5.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/images/tema6/ico_6.svg', alt="", style="width:150px; display:block; margin:0 auto;")
+              img(src='@/assets/curso/images/tema6/ico_6.svg', alt="", style="width:180px; display:block; margin:0 auto;")
           
-          .h2.text-center.mt-5.text-white Normas asociadas.
+          .h2.text-center.mt-4.text-white Normas asociadas
           ul.lista-ul--color
             li 
               i.fas.fa-check.c-check
@@ -112,7 +112,7 @@
         .row.justify-content-center.p-5.mb-3
           .col-6
             figure
-              img(src='@/assets/curso/images/tema6/ico_7.svg', alt="", style="width:150px; display:block; margin:0 auto;")
+              img(src='@/assets/curso/images/tema6/ico_7.svg', alt="", style="width:180px; display:block; margin:0 auto;")
             br
           .h2.text-center  Protocolo asociado
           ul.lista-ul--color
@@ -131,10 +131,10 @@
 
     .row.justify-content-center
       .col-lg-10.mb-5
-        .row.align-items-center.fondo-1.py-5.px-4
+        .row.justify-content-center.align-items-star.fondo-1.py-5.px-4
           h3 <u> Normas asociadas </u>
           .col-6.col-lg-2.mb-4.mb-lg-0
-            img(src="@/assets/curso/images/tema6/ico_8.svg")
+            img(src="@/assets/curso/images/tema6/ico_8.svg", alt="", style="width:80px; display:block; margin:0 auto;")
           .col-lg-4.mb-5.mb-lg-0(data-aos="fade-right")
             p.mb-3 Resolución 909 de 2008.  Por la cual se establecen las normas y estándares de emisión admisibles de contaminantes a la atmósfera por fuentes fijas y se dictan otras disposiciones.
           .col-lg-6.mb-3(data-aos="fade-left") 
@@ -213,58 +213,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
 export default {
   name: 'Tema3',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -275,5 +229,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>

@@ -12,13 +12,13 @@
     .row.justify-content-center.align-items-center.my-5
       .col-lg-6
         .jumbotron-1.p-5.h-100(data-aos="fade-right")
-          p.mb-3 Los contaminantes 
+          h4.mb-3 Los contaminantes 
           img(src="@/assets/curso/images/tema4/img_1.png")
           p.mt-3 Los contaminantes criterio como el CO2, los dióxidos de azufre, óxidos de nitrógeno, el material particulado, entre otros, se condensan en la parte superior de la tropósfera produciendo lo que conocemos como smog fotoquímico. Estos compuestos, al reaccionar con la radiación solar, exacerban las concentraciones y la temperatura media del planeta, aumentando las consecuencias, tanto en los receptores humanos como en los ecosistemas, debido a las actividades antrópicas que impactan directamente en la sociedad por la relación del consumo y la economía para el desarrollo de la humanidad. 
 
       .col-lg-6
         .jumbotron-2.p-5.h-100(data-aos="fade-left")
-          p.mb-3 Fuentes contaminantes
+          h4.mb-3 Fuentes contaminantes
           img(src="@/assets/curso/images/tema4/img_2.png").mb-5
           p.mb-4 La mayoría de los contaminantes que se vierten en la atmósfera provienen de diversas fuentes, las cuales se pueden clasificar en naturales y antrópicas. En ese mismo sentido, las fuentes también pueden variar entre puntuales, dispersas, difusas, de área, entre otras. A continuación, se presentan los conceptos para comprender cómo estas fuentes influyen directamente en la contaminación que se genera en el ambiente. 
 
@@ -147,8 +147,8 @@
 
     .jumbotron-5.p-4(data-aos="zoom-in-down")    
       .row.justify-content-center.align-items-center
-        .col-6.col-lg-2.mb-4.mb-lg-0
-          img.mx-3(src="@/assets/curso/images/tema4/bomb.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
+        .col-3.col-lg-1.mb-4.mb-lg-0
+          img(src="@/assets/curso/images/tema4/bomb.svg")
         .col-lg-10
           h3.mb-2 ¿En qué consisten? 
           p Según la Guía de calidad del aire y educación ambiental, “Los contaminantes de la atmósfera consisten en una gran variedad de gases, vapores y partículas, cuya presencia y cantidad afectan a las personas, las plantas, los animales y los materiales. Según sea el origen de los contaminantes, estos pueden clasificarse en dos grandes grupos -los primarios y los secundarios-, para así estudiar mejor su origen, distribución y tratamiento o prevención”.
@@ -363,14 +363,14 @@
             .tarjeta-avatar
               img.mt-3(src="@/assets/curso/images/tema4/ico_18.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;")
               .tarjeta-2.p-5.h-100
-                h3.mb-3  Plomo (Pb)
+                h4.mb-3  Plomo (Pb)
                 p “Este contaminante proviene de la combustión de gasolinas con plomo, de la minería y fundiciones, y de la incineración de residuos. El plomo puede depositarse en el agua y alimentos que consumimos, por lo que puede ser absorbido por nuestro cuerpo”. 
 
           .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
             .tarjeta-avatar
               img.mt-3(src="@/assets/curso/images/tema4/ico_19.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;")
               .tarjeta-2.p-5.h-100
-                h3.mb-3 Ozono troposférico (O3)
+                h4.mb-3 Ozono troposférico (O3)
                 p.mb-2 “Se trata del principal componente del smog fotoquímico y uno de los más fuertes agentes oxidantes. El ozono se forma en la tropósfera y de la acción de esta en las moléculas de ozono en la estratósfera, como producto de la reacción entre los NOX, los COV y los hidrocarburos (HC) en presencia de radiación solar. Las fuentes de hidrocarburos y NOx en las zonas urbanas son primordialmente los vehículos”.
                 p (Ministerio de Medio Ambiente. Gobierno de Chile, 2018)
 
@@ -454,15 +454,7 @@
                       .col-auto
                         img.mx-2(src="@/assets/curso/images/tema4/ico_video_1.svg",  alt='', style="width:20px; display:block; margin:auto 0 ;")
 
-    Separador
-
-    #t_4_4.titulo-segundo
-      .h2 4.4 La Calidad del aire y su seguimiento
-
-    p.mb-3 Para saber cómo es la calidad del aire que respiramos, es importante conocer su estado, y más cuando es lo que nos afecta directamente, ya que el aire es un componente vital para el ser humano.
-
-    p.mb-5 Según el marco normativo establecido en Colombia: la Resolución 601 de 2006 del MAVDT; Resolución 610 de 2010 del MAVDT; Informe del estado de la calidad del aire en Colombia 2007-2010; Informe del estado del medio ambiente y de los recursos naturales renovables; Comunidad Andina –CAN; se establece la incorporación de la herramienta Índice de Calidad del Aire, mejor conocida por sus siglas como ICA.  
-
+   
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-5.mb-5.mb-lg-0(data-aos="fade-right")
         h3 ICA
@@ -471,9 +463,9 @@
       .col-12.col-lg-5.mb-5.mb-lg-0(data-aos="fade-left")
         img(src='@/assets/curso/images/tema4/img_11.png' alt="")
 
-      .row.justify-content-center.mt-3
-        .col-lg-5
-        .col-lg-5
+      .row.justify-content-star.mt-3
+        .col-lg-6
+        .col-lg-4
           .jumbotron-4.p-3
             p (IDEAM, 2012)
 
@@ -484,8 +476,11 @@
 
     p.mb-3 Teniendo en cuenta los contaminantes que son monitoreados en el país, las características de los combustibles que se distribuyen y los equipos que actualmente se encuentran en las SVCA, el índice se calcula de manera independiente para cada uno de los seis principales contaminantes, los cuales son PM10, PM2,5, SO2, NO2, O3 y CO. 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
+      .col-12.col-lg-10
+        hr
       .col-12.col-lg-6.mb-5.mb-lg-0(data-aos="fade-right")
+        
         .bloque-texto-b.color-custom-6.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -493,13 +488,16 @@
             i.fas.fa-quote-right 
 
         .bloque-texto-b.color-custom-6.p-4
+          .col-12.col-lg-12
+            hr
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 “En la Tabla No. 1, se presentan los rangos en los que han sido clasificados los valores que puede tomar el Índice, junto con el color que le fue asignado para identificar de forma sencilla la alerta que representa el nivel de contaminación”.
             i.fas.fa-quote-right 
 
-      .col-12.col-lg-4.mb-5.mb-lg-0(data-aos="fade-left")
+      .col-12.col-lg-4.mb-lg-0(data-aos="fade-left")
         img(src='@/assets/curso/images/tema4/img_12.svg' alt="")
+      
 
     .row.mb-5.ps-2(data-aos="zoom-in-down")
       .col-lg-3.bg-color-4.px-4.py-2
@@ -560,14 +558,18 @@
 
 
 
+
+
+
+
+
+
 </template>
 
 <script>
 export default {
   name: 'Tema3',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -578,5 +580,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>

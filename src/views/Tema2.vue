@@ -237,7 +237,7 @@
     .row.aling.my-5   
       .col-lg-10(data-aos="zoom-in-down")
         .cajon.color-custom-2.p-4.mb-4.p-5
-          .row.justify-content-star
+          .row.justify-content-around.align-items-center
             .col-lg-2.col-sm-2
               img.mx-3(src="@/assets/curso/images/tema2/ico_27.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;").mb-3
             .col-lg-10
@@ -273,84 +273,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      
 
 
 </template>
@@ -358,9 +281,7 @@
 <script>
 export default {
   name: 'Tema2',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -371,5 +292,4 @@ export default {
   },
 }
 </script>
-
 <style lang="sass"></style>

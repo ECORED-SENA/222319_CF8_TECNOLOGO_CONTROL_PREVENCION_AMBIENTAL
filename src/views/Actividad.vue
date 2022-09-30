@@ -93,6 +93,9 @@
                 span Realizar
                 i.fas.fa-puzzle-piece
 
+
+    
+
 </template>
 
 <script>
