@@ -55,7 +55,7 @@
         .col-lg-8 
         .col-lg-3
           .jumbotron-4.p-4
-            p.text-center (Foros Semana, 2020)
+            p.mb-0.text-center (Foros Semana, 2020)
 
     Separador
 

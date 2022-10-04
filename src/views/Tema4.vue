@@ -148,7 +148,7 @@
     .jumbotron-5.p-4(data-aos="zoom-in-down")    
       .row.justify-content-center.align-items-center
         .col-3.col-lg-1.mb-4.mb-lg-0
-          img(src="@/assets/curso/images/tema4/bomb.svg")
+          img(src="@/assets/curso/images/tema4/bomb.svg" alt='', style="width:65px; display:block; margin:auto 0 ;")
         .col-lg-10
           h3.mb-2 ¿En qué consisten? 
           p Según la Guía de calidad del aire y educación ambiental, “Los contaminantes de la atmósfera consisten en una gran variedad de gases, vapores y partículas, cuya presencia y cantidad afectan a las personas, las plantas, los animales y los materiales. Según sea el origen de los contaminantes, estos pueden clasificarse en dos grandes grupos -los primarios y los secundarios-, para así estudiar mejor su origen, distribución y tratamiento o prevención”.
@@ -467,7 +467,7 @@
         .col-lg-6
         .col-lg-4
           .jumbotron-4.p-3
-            p (IDEAM, 2012)
+            p.mb-0 (IDEAM, 2012)
 
 
     .row.mb-5.ps-2(data-aos="zoom-in-down")
