@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'Con el estudio de este componente, el aprendiz podrá favorecer procesos de comprensión, análisis y aplicación de diagnósticos de la problemática ambiental y de interpretación de mediciones de contaminación atmosférica, basándose en procedimientos técnicos y normativa ambiental vigente.',
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
-    imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal_4.png'),
     fondoBannerInterno: require('@/assets/curso/images/header/interno.svg'),
     imagenesDecorativasBanner: [
       {
