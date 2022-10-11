@@ -67,7 +67,7 @@
     .row.justify-content-center.align-items-center.my-5
       .tarjeta.bg_grad-02.p-4.mb-5(data-aos="zoom-in-up")
         SlyderA
-          .row.justify-content-center.align-items-center.p-5
+          .row.justify-content-center.align-items-center
             .col-lg-3
               h3.mb-5 Cambio climático
               img.mt-3(src="@/assets/curso/images/tema5/img_2.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
