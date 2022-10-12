@@ -76,7 +76,7 @@
               p.mb-3 “En el sentido más general, el término "cambio climático" abarca todas las formas de inconstancia climática (esto es, cualesquiera diferencias entre las estadísticas a largo plazo de los elementos meteorológicos calculados para distintos periodos, pero respecto a la misma zona), con independencia de su carácter estadístico o sus causas físicas. Los cambios climáticos pueden resultar de factores tales como los cambios de la emisión solar, los cambios a largo plazo de elementos de la órbita terrestre (excentricidad, oblicuidad de la eclíptica, precesión de los equinoccios), los procesos internos naturales del sistema climático o el forzamiento antropogénico (por ejemplo, aumento de las concentraciones atmosféricas de dióxido carbónico o de otros gases de efecto invernadero)”. (IDEAM, 2019)
               p.mb-3 “El término "cambio climático" se utiliza a menudo en un sentido más limitado para designar un cambio significativo (esto es, un cambio que tiene efectos económicos, medioambientales y sociales importantes) en los valores medios de un elemento meteorológico (en particular de la temperatura o la cantidad de precipitación) en el curso de un periodo dado, tomando las medias en duraciones del orden del decenio o más”. (IDEAM, 2019)
 
-          .row.justify-content-center.align-items-center.p-5
+          .row.justify-content-center.align-items-center
             .col-lg-3
               h3.mb-5 El origen del calentamiento global 
               img.mt-3(src="@/assets/curso/images/tema5/img_3.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
@@ -87,7 +87,7 @@
 
               p.mb-3 De hecho, los estudios muestran que la variabilidad solar ha desempeñado un papel importante en cambios climáticos pasados. Por ejemplo, se cree que una disminución en la actividad solar, junto con un aumento en la actividad volcánica, ayudó a desencadenar la pequeña edad de hielo que tuvo lugar aproximadamente entre 1650 y 1850, cuando Groenlandia se enfrió desde 1410 hasta la década de 1720 y los glaciares avanzaron en Los Alpes.
 
-          .row.justify-content-center.align-items-center.p-5
+          .row.justify-content-center.align-items-center
             .col-lg-3
               h3.mb-5 Otras miradas
               img.mt-3(src="@/assets/curso/images/tema5/img_4.svg",  alt='', style="width:200px; display:block; margin:auto 0 ;").mb-3
