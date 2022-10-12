@@ -183,7 +183,7 @@
     .row.align-items-center.align-items-center.my-5
       .col-lg-12
         TabsA.color-acento-contenido(data-aos="fade")
-          .tarjeta.back-tab.px-5.py-4(titulo="1. ¿1. ¿Qué es protocolo de Kioto?")
+          .tarjeta.back-tab.px-5.py-4(titulo="1. ¿Qué es protocolo de Kioto?")
             .row.px-2.py-2.justify-content-center
               .col-lg-2.mb-3
                 img.mt-4(src="@/assets/curso/images/tema2/ico_21.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
