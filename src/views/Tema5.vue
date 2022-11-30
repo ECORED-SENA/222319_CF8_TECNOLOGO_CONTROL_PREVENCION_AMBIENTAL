@@ -28,7 +28,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              | “El 19 de agosto llega una iniciativa digital que busca comprometer a los ciudadanos con la protección ambiental. #MiPromesaClimáticaEs hará un llamado a la acción climática en el país, para que cada persona contribuya al cuidado del medioambiente.
+              | El 19 de agosto llega una iniciativa digital que busca comprometer a los ciudadanos con la protección ambiental. #MiPromesaClimáticaEs hará un llamado a la acción climática en el país, para que cada persona contribuya al cuidado del medioambiente.
             li 
               .lista-ol--cuadro__vineta
                 span 2
@@ -46,7 +46,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              p Mi Promesa ClimáticaEs reunirá a importantes voces en este tema en el ámbito nacional que darán lineamientos sobre cuáles son esos factores a los que se debe comprometer la ciudadanía para proteger el clima; las acciones a tomar, durante y después de la pandemia, para reducir el impacto negativo en Colombia.
+              p #MiPromesaClimáticaEs reunirá a importantes voces en este tema en el ámbito nacional que darán lineamientos sobre cuáles son esos factores a los que se debe comprometer la ciudadanía para proteger el clima; las acciones a tomar, durante y después de la pandemia, para reducir el impacto negativo en Colombia.
             li 
               .lista-ol--cuadro__vineta
                 span 2
@@ -94,7 +94,7 @@
             .col-lg-9
               p.mb-3 Pero varias líneas de evidencia muestran que el calentamiento global actual no se puede explicar mediante los cambios en la energía del sol:
               p.mb-3 Desde 1750, la cantidad promedio de energía procedente del sol se mantuvo constante o se incrementó levemente.
-              p.mb-3 Si el calentamiento fuera causado por una mayor actividad del sol, entonces los científicos esperarían ver temperaturas más calientes en todas las capas de la atmósfera. Sin embargo, han observado un enfriamiento en la parte superior de la atmósfera y un calentamiento en la superficie y en partes más bajas de esta capa. Esto se debe a que los gases del efecto invernadero están atrapando calor en la parte más baja de la atmósfera. Los modelos del clima que incluyen cambios en la radiación solar no pueden reproducir la tendencia de temperatura observada durante el último siglo o más sin incluir un aumento de los gases de efecto invernadero”.
+              p.mb-3 Si el calentamiento fuera causado por una mayor actividad del sol, entonces los científicos esperarían ver temperaturas más calientes en todas las capas de la atmósfera. Sin embargo, han observado un enfriamiento en la parte superior de la atmósfera y un calentamiento en la superficie y en partes más bajas de esta capa. Esto se debe a que los gases del efecto invernadero están atrapando calor en la parte más baja de la atmósfera. Los modelos del clima que incluyen cambios en la radiación solar no pueden reproducir la tendencia de temperatura observada durante el último siglo o más sin incluir un aumento de los gases de efecto invernadero.
 
               p.mb-3 (NASA, 2021)
 
@@ -151,10 +151,10 @@
     SlyderE.color-custom-8.p-4.mb-5(indicadores="derecha")(data-aos="zoom-in-down")
       .row
         .col-md-6.mb-4.mb-md-0
-          h3 Smog
-          p.mb3 Consecuentemente al cambio climático, uno de los fenómenos que se desarrollan es el smog fotoquímico. El IDEAM lo define como:
+          h3 <i>Smog</i>
+          p.mb3 Consecuentemente al cambio climático, uno de los fenómenos que se desarrollan es el <i>Smog</i> fotoquímico. El IDEAM lo define como:
 
-          p “Smog formado por la oxidación de hidrocarburos, siendo producido el agente oxidante por reacciones fotoquímicas entre la radiación solar ultravioleta y diversos componentes atmosféricos” (IDEAM, 2019).
+          p “<i>Smog</i> formado por la oxidación de hidrocarburos, siendo producido el agente oxidante por reacciones fotoquímicas entre la radiación solar ultravioleta y diversos componentes atmosféricos” (IDEAM, 2019).
 
         .col-md-6
           figure
@@ -162,21 +162,21 @@
 
       .row
         .col-lg-12
-          h3 Origen del smog fotoquímico
-          p.mb3 El smog fotoquímico se puede apreciar en algunas ocasiones sobre el horizonte, especialmente en la mañana y cuando el sol refleja su radiación en la atmósfera produciendo un color entre rojizo y marrón, como una nube que se posa en el aire que respiramos.
+          h3 Origen del <i>Smog</i> fotoquímico
+          p.mb3 El <i>Smog</i>fotoquímico se puede apreciar en algunas ocasiones sobre el horizonte, especialmente en la mañana y cuando el sol refleja su radiación en la atmósfera produciendo un color entre rojizo y marrón, como una nube que se posa en el aire que respiramos.
 
-          p.mb-3 “Este se origina por la combinación del aire con contaminantes durante un período de altas presiones. Este tipo de smog se desarrolla en prácticamente todas las grandes ciudades del mundo, especialmente en aquellas con mucho tráfico, soleadas y con poco movimiento de las masas de aire.
+          p.mb-3 “Este se origina por la combinación del aire con contaminantes durante un período de altas presiones. Este tipo de <i>Smog</i>se desarrolla en prácticamente todas las grandes ciudades del mundo, especialmente en aquellas con mucho tráfico, soleadas y con poco movimiento de las masas de aire.
 
-          p.mb-3 El smog fotoquímico se forma a partir de las reacciones entre la luz solar y los óxidos de nitrógeno (NOx) y/o compuestos orgánicos volátiles (COV). Estas reacciones provocan la formación de ozono (O3) o dióxidos de azufre (SO2), y otros contaminantes secundarios, como formaldehído y cetonas. Este tipo de smog se intensifica cuando, aparte del tráfico intenso y la producción industrial que emiten NOx y COV a la atmósfera, se presenta un período de inversión térmica que impide la circulación del aire”.
+          p.mb-3 El <i>Smog</i>fotoquímico se forma a partir de las reacciones entre la luz solar y los óxidos de nitrógeno (NOx) y/o compuestos orgánicos volátiles (COV). Estas reacciones provocan la formación de ozono (O3) o dióxidos de azufre (SO2), y otros contaminantes secundarios, como formaldehído y cetonas. Este tipo de <i>Smog</i> se intensifica cuando, aparte del tráfico intenso y la producción industrial que emiten NOx y COV a la atmósfera, se presenta un período de inversión térmica que impide la circulación del aire”.
       
-          p.mb-3 “La producción de smog fotoquímico oscurece la atmósfera dejando un aire teñido de color marrón rojizo, cargado de componentes dañinos para la salud de las personas y del medio ambiente. Aparte de ensuciar el aire y entregarle un aspecto de niebla, causa daños sobre zonas forestales y agrícolas cercanas a las ciudades”.
+          p.mb-3 “La producción de <i>Smog</i> fotoquímico oscurece la atmósfera dejando un aire teñido de color marrón rojizo, cargado de componentes dañinos para la salud de las personas y del medio ambiente. Aparte de ensuciar el aire y entregarle un aspecto de niebla, causa daños sobre zonas forestales y agrícolas cercanas a las ciudades”.
 
           p.mb-0 (Ministerio del Medio Ambiente. Gobierno de Chile, 2018)
 
       .row
         .col-md-6.mb-4.mb-md-0
           h3 Inversión térmica
-          p.mb3 Para identificar el origen del smog fotoquímico, es importante reconocer qué es la inversión térmica.
+          p.mb3 Para identificar el origen del <i>Smog</i> fotoquímico, es importante reconocer qué es la inversión térmica.
 
           p “Como hemos visto, en condiciones normales de la tropósfera, las masas de aire cálido asociadas a la superficie terrestre se enfrían al ascender. La inversión térmica se presenta cuando se interpone una masa de aire más caliente que obstaculiza este tránsito, provocando una especie de barrera que no permite que el aire frío que se encuentra bajo ésta, pueda subir, dificultando la dispersión de los contaminantes emitidos desde la superficie”.
 
@@ -197,7 +197,7 @@
           figure
             img(src="@/assets/curso/images/tema5/img_7.png")
 
-    p.mb-3 La inversión térmica influye directamente en la generación del smog fotoquímico, sin embargo, la mezcla de varios contaminantes de tipo criterio, más el dióxido de carbono, son quienes producen ese cúmulo de gases nocivos que se presentan en la atmósfera, mejor conocido como la contaminación atmosférica.
+    p.mb-3 La inversión térmica influye directamente en la generación del <i>Smog</i> fotoquímico, sin embargo, la mezcla de varios contaminantes de tipo criterio, más el dióxido de carbono, son quienes producen ese cúmulo de gases nocivos que se presentan en la atmósfera, mejor conocido como la contaminación atmosférica.
 
 
     .row.aling.my-5   
@@ -220,7 +220,7 @@
       .col-12.col-lg-5.mb-5.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/images/tema5/img_8.png' alt="")
       .col-12.col-lg-5.mb-5.mb-lg-0(data-aos="fade-left")
-        p.mb-3 Cuando hablamos de la contaminación atmosférica, se involucran directamente los conceptos de smog fotoquímico e inversión térmica, a los cuales se une uno más importante y determinante, como lo es el efecto invernadero. Este fenómeno natural es muy importante para el planeta; sin embargo, el crecimiento de la población mundial y sus diversas actividades antrópicas incrementan este fenómeno, generando consecuencias desastrosas.
+        p.mb-3 Cuando hablamos de la contaminación atmosférica, se involucran directamente los conceptos de <i>Smog</i>fotoquímico e inversión térmica, a los cuales se une uno más importante y determinante, como lo es el efecto invernadero. Este fenómeno natural es muy importante para el planeta; sin embargo, el crecimiento de la población mundial y sus diversas actividades antrópicas incrementan este fenómeno, generando consecuencias desastrosas.
 
 
         p.mb-0 Según el IDEAM, el efecto invernadero es el “calentamiento de las capas inferiores de la atmósfera debido a sus propiedades de absorción diferentes para las longitudes de onda larga y corta”. (IDEAM, 2012).
@@ -253,7 +253,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Problemáticas Contaminación Ambiental
-                  p.text-small Las problemáticas de contaminación ambiental son un elemento muy amplio de estudio y análisis. Entérese aún más sobre este tema en el archivo: Anexo_1_ProblematicasContaminacionAmbiental 
+                  p.text-small Las problemáticas de contaminación ambiental son un elemento muy amplio de estudio y análisis. Entérese aún más sobre este tema en el archivo: 
                 .col-md-auto
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/Anexo_1_ProblematicasContaminacionAmbiental.pdf')" target="_blank")
                     span.text-small Descargar
@@ -294,7 +294,7 @@
     .row.align-items-center.align-items-center.my-5
       .col-lg-12
         TabsA.color-acento-contenido(data-aos="fade")
-          .tarjeta.back-tab-1.px-5.py-4(titulo="¿Temperaturas récord en todo el mundo.")
+          .tarjeta.back-tab-1.px-5.py-4(titulo="Temperaturas récord en todo el mundo.")
             .row.px-2.py-2.justify-content-center
               .col-lg-10
                 h3 Temperaturas récord en todo el mundo.
@@ -325,7 +325,7 @@
                 h3.mt-3 Incendios forestales en América del Norte
                 p.mb-3 “En 2016, los incendios forestales quemaron cerca de 3.6 millones de hectáreas al oeste de Canadá y Estados Unidos, incluido un incendio que fue particularmente destructivo en Alberta, el cual generó evacuaciones masivas y destruyó 2400 hogares”.
 
-          .tarjeta.back-tab-1.px-5.py-4(titulo="5. ¿La “mancha” cálida en el Océano Pacífico")
+          .tarjeta.back-tab-1.px-5.py-4(titulo="5. La “mancha” cálida en el Océano Pacífico")
             .row.px-2.py-2.justify-content-center
               .col-6.col-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/images/tema5/img_16.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")

@@ -189,7 +189,7 @@
                 img.mt-4(src="@/assets/curso/images/tema2/ico_21.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 1. ¿Qué es protocolo de Kioto?
-                p.mb-3 El propósito de la firma del protocolo, más que comprometer a los diferentes países a disminuir los gases efecto invernadero, también es el de establecer metas y tiempos que contribuyan con la mitigación de las fuentes generadoras de estos gases que afectan la atmósfera y repercuten en el incremento de la temperatura del planeta con sus evidentes consecuencias, de acuerdo con lo publicado por el MADS en su página oficial.
+                p.mb-3  “ El protocolo de Kioto es un acuerdo multinacional que compromete a los países industrializados a estabilizar las emisiones de gases de efecto invernadero. La convención por su parte solo alienta a los países a hacerlo.”
 
           .tarjeta.back-tab.px-5.py-4(titulo="2. Responsabilidad común diferenciada")
             .row.px-2.py-2.justify-content-center
@@ -205,7 +205,7 @@
                 img.mt-5(src="@/assets/curso/images/tema2/ico_23.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 3. Moviendo a los gobiernos
-                p.mb-3 …”Protocolo de Kioto fue considerado como primer paso importante hacia un régimen verdaderamente mundial de reducción y estabilización de las emisiones de GEI, y proporciona la arquitectura esencial para cualquier acuerdo internacional sobre el cambio climático que se firme en el futuro. Ya concluyó el primer período de compromiso del protocolo de Kioto en 2012 y se amplió hasta el 2015, tiempo en el que tiene que haber quedado decidido y ratificado un nuevo marco internacional que pueda aportar las severas reducciones de las emisiones que según ha indicado claramente el Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) son necesarias”. 
+                p.mb-3 “ El protocolo ha movido a los gobiernos a establecer leyes y políticas para cumplir sus compromisos, a las empresas a tener el medioambiente en cuenta a la hora de tomar decisiones sobre sus inversiones, y además ha propiciado la creación del mercado del carbono.”
           
 
           .tarjeta.back-tab.px-5.py-4(titulo="4. Más que un simple propósito.")
@@ -214,7 +214,7 @@
                 img.mt-3(src="@/assets/curso/images/tema2/ico_24.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 4. Más que un simple propósito.
-                p.mb-3 El protocolo ha movido a los gobiernos a establecer leyes y políticas para cumplir sus compromisos, a las empresas a tener el medioambiente en cuenta a la hora de tomar decisiones sobre sus inversiones, y además ha propiciado la creación del mercado del carbono.”
+                p.mb-3 “El propósito de la firma del protocolo, más que comprometer a los diferentes países a disminuir los gases efecto invernadero, también es el de establecer metas y tiempos que contribuyan con la mitigación de las fuentes generadoras de estos gases que afectan la atmósfera y repercuten en el incremento de la temperatura del planeta con sus evidentes consecuencias, de acuerdo con lo publicado por el MADS en su página oficial.”
 
           .tarjeta.back-tab.px-5.py-4(titulo="5. ¿Un régimen mundial?")
             .row.px-2.py-2.justify-content-center
@@ -222,7 +222,7 @@
                 img.mt-4(src="@/assets/curso/images/tema2/ico_25.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 5. ¿Un régimen mundial?
-                p.mb-3 El propósito de la firma del protocolo, más que comprometer a los diferentes países a disminuir los gases efecto invernadero, también es el de establecer metas y tiempos que contribuyan con la mitigación de las fuentes generadoras de estos gases que afectan la atmósfera y repercuten en el incremento de la temperatura del planeta con sus evidentes consecuencias, de acuerdo con lo publicado por el MADS en su página oficial.
+                p.mb-3 “Protocolo de Kioto fue considerado como primer paso importante hacia un régimen verdaderamente mundial de reducción y estabilización de las emisiones de GEI, y proporciona la arquitectura esencial para cualquier acuerdo internacional sobre el cambio climático que se firme en el futuro. Ya concluyó el primer período de compromiso del protocolo de Kioto en 2012 y se amplió hasta el 2015, tiempo en el que tiene que haber quedado decidido y ratificado un nuevo marco internacional que pueda aportar las severas reducciones de las emisiones que según ha indicado claramente el Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) son necesarias”.
 
     .row.aling.my-5   
       .col-lg-10(data-aos="zoom-in-down")
@@ -245,12 +245,12 @@
                 .col.mb-3.mb-sm-0
                   p.mb-3 Usted debe conocer que, entre las metas que se establecen en este acuerdo mundial, el cual fue firmado por Colombia, están:
 
-                  p.mb-2 Dióxido de carbono (CO2)
-                  p.mb-2 Metano (CH4)
-                  p.mb-2 Óxido nitroso (N2O)
+                  p.mb-2 Dióxido de carbono (CO<sup>2</sup>)
+                  p.mb-2 Metano (CH<sup>4</sup>)
+                  p.mb-2 Óxido nitroso (N2<sup>O</sup>)
                   p.mb-2 Hidrofluorocarbonos (HFC)
                   p.mb-2 Perfluorocarbonos (PFC)
-                  p.mb-2 Hexafluoruro de azufre (SF6)
+                  p.mb-2 Hexafluoruro de azufre (SF<sup>6</sup>)
 
 
 

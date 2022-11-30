@@ -20,8 +20,9 @@
     #t_6_1.titulo-segundo
       .h2 6.1 Contaminación y calidad ambiental
 
-    p.mb-5 Es importante definir cómo la regulación ambiental marca el camino de la conciencia ambiental en nuestro país, según el Instituto De Hidrología Meteorología Y Estudios Ambientales –IDEAM… “el control de la contaminación en Colombia comienza con la generación de datos e información.  La caracterización de la calidad ambiental que es su equivalente, constituye uno de los más importantes procesos de desarrollo de información orientados a un amplio margen de tomadores de decisiones que van desde el ciudadano del común que busca optimizar sus medios de vida, hasta los altos funcionarios del Estado que deben tomar decisiones de política pública relacionada con grandes grupos poblacionales, especialmente los que habitan las zonas urbanas”
+    p.mb-5 Es importante definir cómo la regulación ambiental marca el camino de la conciencia ambiental en nuestro país, según el Instituto De Hidrología Meteorología Y Estudios Ambientales –IDEAM… “el control de la contaminación en Colombia comienza con la generación de datos e información.  La caracterización de la calidad ambiental que es su equivalente, constituye uno de los más importantes procesos de desarrollo de información orientados a un amplio margen de tomadores de decisiones que van desde el ciudadano del común que busca optimizar sus medios de vida, hasta los altos funcionarios del Estado que deben tomar decisiones de política pública relacionada con grandes grupos poblacionales, especialmente los que habitan las zonas urbanas”. “(IDEAM, 2014)”
 
+    h4.mb-5 Normas Asociadas
 
     .row.justify-content-center
       .col-lg-10(data-aos="zoom-in-down")
@@ -100,10 +101,10 @@
           ul.lista-ul--color
             li 
               i.fas.fa-check.c-check
-              p.text-white Resolución 2254 de 2017 Por la cual se adopta la norma de calidad del aire ambiente y se dictan otras disposiciones
+              p.text-white Resolución 2254 de 2017 Por la cual se adopta la norma de calidad del aire ambiente y se dictan otras disposiciones.
             li 
               i.fas.fa-check.c-check
-              p.text-white Resolución 650 de 2010. Por la cual se adopta el Protocolo para el monitoreo y seguimiento de la calidad del aire”
+              p.text-white Resolución 650 de 2010. Por la cual se adopta el Protocolo para el monitoreo y seguimiento de la calidad del aire
             li 
               i.fas.fa-check.c-check
               p.text-white Resolución 2154 de 2010. Por la cual se ajusta el protocolo para el monitoreo y seguimiento de la calidad del aire adoptado a través de la Resolución 650 de 2010 y se adoptan otras disposiciones.
@@ -127,7 +128,7 @@
     #t_6_4.titulo-segundo
       .h2 6.4 Fuentes fijas 
 
-    p.mb-4 Las fuentes fijas puntuales, mejor conocidas como “chimeneas” o ductos por donde se expulsan gases contaminantes (MP, SOx, NOx, CO, COV, entre otros) de las industrias que hacen parte del sector productivo que mueve la economía de nuestro país, aportan de manera importante al continuo deterioro de la calidad del aire que respiramos, especialmente en la principales ciudades del país; por esta razón, la normatividad asociada a las fuentes fijas es fundamental para el seguimiento y control de la emisiones en Colombia.
+    p.mb-4 Las fuentes fijas puntuales, mejor conocidas como “chimeneas” o ductos por donde se expulsan gases contaminantes (MP, SOx, NOx, CO, COV, entre otros) de las industrias que hacen parte del sector productivo que mueve la economía de nuestro país, aportan de manera importante al continuo deterioro de la calidad del aire que respiramos, especialmente en las principales ciudades del país; por esta razón, la normatividad asociada a las fuentes fijas es fundamental para el seguimiento y control de las emisiones en Colombia.
 
     .row.justify-content-center
       .col-lg-10.mb-5

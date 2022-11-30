@@ -75,7 +75,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Bases conceptuales',
+            titulo: 'Presión atmosférica',
             hash: 't_3_1',
           },
         ],
@@ -274,7 +274,7 @@ export default {
     {
       referencia:
         'MeteoLobios. (2013). Lluvia. MeteoLobios. Estación meteorológica automática on line. ',
-      link: 'http://www.meteolobios.es/lluvia.html',
+      link: 'http://www.meteolobios.es/lluvia.htm',
     },
     {
       referencia:
@@ -385,52 +385,94 @@ export default {
   ],
   complementario: [
     {
-      texto: ' Comprensión de la problemática atmosférica”',
+      tema: '1. Comprensión de la problemática atmosférica',
+      referencia:
+        'El Ciudadano TV. (2019, 25 agosto). Hace 40 años predijeron el calentamiento global [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1nhyQiWmVio',
     },
+
     {
-      texto: '3. Bases conceptuales',
+      tema: '3. Bases conceptuales',
+      referencia:
+        'Corporación Educativa Indoamericana. (2020, 21 febrero). Meteorología Atmósfera [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aVG5qAFP4x8',
     },
     {
-      texto: 'Bases conceptuales',
+      tema: '3. Bases conceptuales',
+      referencia:
+        'Escola Port. (2016, 8 febrero). PER 5.1 METEOROLOGÍA (Escola Port Barcelona, 2012) [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qUtW0k6xo3E',
     },
     {
-      texto: 'Orígenes de contaminación y fuentes de emisiones',
+      tema: '4. Orígenes de contaminación y fuentes de emisiones',
+      referencia:
+        'AFP Español. (2016, 27 septiembre). La contaminación del aire [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aaOiL7CQd74',
     },
     {
-      texto: 'Orígenes de contaminación y fuentes de emisiones',
+      tema: '4. Orígenes de contaminación y fuentes de emisiones',
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible - Colombia. (2017, 11 agosto). Todo lo que debes saber sobre la calidad del aire [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=FtKg9zJ6oNQ',
     },
     {
-      texto: '4. Orígenes de contaminación y fuentes de emisiones',
+      tema: '4. Orígenes de contaminación y fuentes de emisiones',
+      referencia:
+        'AmbienteBogota. (2015, 18 junio). Secretaría de Ambiente lanza sistema que alerta el estado de calidad del aire en Bogotá [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aW8Wuxxbv6E',
     },
     {
-      texto: 'Problemáticas ambientales',
+      tema: '5. Problemáticas ambientales',
+      referencia:
+        'Historia para melones. (2017, 29 noviembre). La contaminación atmosférica [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=JsBSJE_TCOA',
     },
     {
-      texto: 'Problemáticas ambientales',
+      tema: '5. Problemáticas ambientales',
+      referencia:
+        'Facultad Online. (2018, 8 octubre). Efecto Invernadero | Explicación y cómo combatirlo!! [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=eJrAvZRWKgY',
     },
     {
-      texto: 'Marco normativo',
+      tema: '6. Marco normativo',
+      referencia:
+        'Corantioquiaoficial. (2015, 13 julio). Programa de Gestión de Calidad del Aire [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=yn3ubk_CABo',
     },
     {
-      texto: 'Marco normativo',
+      tema: '6. Marco normativo',
+      referencia:
+        'Corantioquiaoficial. (2016, 16 octubre). Control a Fuentes Móviles [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=rvAYPKtN7mg',
+    },
+    {
+      tema: '5. Problemáticas ambientales',
+      referencia:
+        'Facultad Online. (2018, 8 octubre). Efecto Invernadero | Explicación y cómo combatirlo!! [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=eJrAvZRWKgY',
+    },
+    {
+      tema: '6. Marco normativo',
+      referencia:
+        'Corantioquiaoficial. (2015, 13 julio). Programa de Gestión de Calidad del Aire [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=yn3ubk_CABo',
+    },
+    {
+      tema: '6. Marco normativo',
+      referencia:
+        'Corantioquiaoficial. (2016, 16 octubre). Control a Fuentes Móviles [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rvAYPKtN7mg',
     },
@@ -507,16 +549,27 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Maria Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

@@ -41,14 +41,14 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h4.text-regular.bloque-texto-f__texto.p-4 <b> Según el portal www.capasdelatierra.org: </b> “Se cree que la tierra se formó hace unos 5 mil millones de años y que muchos de los gases de nuestra atmósfera fueron expulsados al aire por los primeros volcanes; durante los primeros 500 millones de años, hubo poco o nada de oxígeno libre alrededor de la tierra. El oxígeno libre consiste en moléculas de oxígeno no unidas a otro elemento, por ejemplo, el carbono (para formar dióxido de carbono) o el hidrógeno (para formar agua)”.“Hace mil millones de años, los primeros organismos acuáticos, llamados algas verdeazuladas, comenzaron a usar la energía del sol para dividir las moléculas de agua (H2O) y el dióxido de carbono (CO2), recombinándolas en compuestos orgánicos y oxígeno molecular (O2). Este proceso de conversión de energía solar se conoce como fotosíntesis”.“En lo alto de la atmósfera, algunas moléculas de oxígeno (O2) absorbieron energía de los rayos ultravioleta (UV) del sol y se dividieron para formar átomos individuales de oxígeno. Estos átomos se combinaron con el oxígeno restante y formaron moléculas de ozono (O3), un gas capaz de absorber los rayos UV. La capa de ozono que rodea la tierra actúa como escudo protector contra la radiación UV”.#[br]“El aire que respiramos está compuesto en un 78% de nitrógeno (N2), un 21% de oxígeno (O2), 0.9% de argón (Ar) y 0.04% de dióxido de carbono (CO2). El resto está compuesto por elementos llamados oligoelementos, que incluyen vapor de agua, ozono y otras partículas / moléculas que flotan alrededor”.
+          h4.text-regular.bloque-texto-f__texto.p-4 <b> Según el portal www.capasdelatierra.org: </b> “Se cree que la tierra se formó hace unos 5 mil millones de años y que muchos de los gases de nuestra atmósfera fueron expulsados al aire por los primeros volcanes; durante los primeros 500 millones de años, hubo poco o nada de oxígeno libre alrededor de la tierra. El oxígeno libre consiste en moléculas de oxígeno no unidas a otro elemento, por ejemplo, el carbono (para formar dióxido de carbono) o el hidrógeno (para formar agua)”. “Hace mil millones de años, los primeros organismos acuáticos, llamados algas verdeazuladas, comenzaron a usar la energía del sol para dividir las moléculas de agua (H<sub>2</sub>O) y el dióxido de carbono (CO<sub>2</sub>), recombinándolas en compuestos orgánicos y oxígeno molecular (O<sub>2</sub>). Este proceso de conversión de energía solar se conoce como fotosíntesis”. “En lo alto de la atmósfera, algunas moléculas de oxígeno (O<sub>2</sub>) absorbieron energía de los rayos ultravioleta (UV) del sol y se dividieron para formar átomos individuales de oxígeno. Estos átomos se combinaron con el oxígeno restante y formaron moléculas de ozono (O<sub>3</sub>), un gas capaz de absorber los rayos UV. La capa de ozono que rodea la tierra actúa como escudo protector contra la radiación UV”.#[br]“El aire que respiramos está compuesto en un 78% de nitrógeno (N<sub>2</sub>), un 21% de oxígeno (O<sub>2</sub>), 0.9% de argón (Ar) y 0.04% de dióxido de carbono (CO<sub>2</sub>). El resto está compuesto por elementos llamados oligoelementos, que incluyen vapor de agua, ozono y otras partículas / moléculas que flotan alrededor”.
           .bloque-texto-f__autor.mb-3.aling-1
             p.mb-0 (Capas de la Tierra, 2018)
 
     .row.justify-content-center.align-items-center.my-5
       .col-lg-12
         TabsA.color-acento-contenido(data-aos="zoom-in-down")
-          .tarjeta.back-tab.px-5.py-4(titulo="1. ¿Capas de la atmósfera")
+          .tarjeta.back-tab.px-5.py-4(titulo="1. Capas de la atmósfera")
             .row.px-2.py-2.justify-content-center
               .col-lg-12
                 h3 1. Capas de la atmósfera
@@ -103,50 +103,14 @@
                 p.mb-3 “La última de las capas de la atmósfera es la exósfera. Esta es la capa más alejada de la superficie terrestre y, debido a su altura, es la más indefinida y por eso no es en sí considerada una capa de la atmósfera. Más o menos se extiende entre los 600-800 km de altura hasta los 9.000-10.000 km. Esta capa de la atmósfera es la que separa el planeta tierra del espacio exterior y en ella los átomos se escapan. Está compuesta en su mayoría de hidrógeno”.
                 p (Portillo, 2021)
 
-    .row.align-items-center.aling.my-5
-      .col-lg-10(data-aos="fade-right")               
-        .row.justify-content-center
-          .col-md-6.col-lg.mb-5.mb-lg-0
-            .tarjeta-avatar
-              img.mt-3(src="@/assets/curso/images/tema3/ico_2.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;")
-              .tarjeta-1.p-5.h-100
-                p Usted debe conocer que, entre las metas que se establecen en este acuerdo mundial, el cual fue firmado por Colombia, están:
-                .row
-                  .col-lg-6
-                    ol.lista-ol
-                      li 
-                        span.text-bold 1. 
-                        | Dióxido de carbono (CO2) 
-                      li 
-                        span.text-bold 3. 
-                        | Óxido nitroso (N2O)
-                      li 
-                        span.text-bold 5. 
-                        | Perfluorocarbonos (PFC) 
-                  .col-lg-6
-                    ol.lista-ol
-                      li 
-                        span.text-bold 2.
-                        | Metano (CH4)
-                      li 
-                        span.text-bold 4. 
-                        |  Hidrofluorocarbonos (HFC)
-                      li 
-                        span.text-bold 6. 
-                        | Hexafluoruro de azufre (SF6)
-
-          .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
-            .tarjeta-avatar
-              img.mt-3(src="@/assets/curso/images/tema3/ico_3.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;")
-              .tarjeta-1.p-5.h-100
-                p.my-5 Como aprendiz, conozca y reconozca la importancia de los acuerdos que firma Colombia y a lo que se compromete, con la finalidad de que sea veedor y cabal vigilante desde su casa y trabajo, con las acciones que se realizan día a día.
+   
 
     p.mb-3 Para continuar conociendo los aspectos conceptuales básicos que favorecerán el estudio de este componente y que ayudarán a apropiar, más y mejor, la problemática atmosférica, se invita a desarrollar la siguiente actividad.
 
     Separador
 
     #t_3_1.titulo-segundo
-      .h2 3.1  Bases conceptuales:
+      .h2 3.1  Presión atmosférica
     
     p.mb-3 Se presentan otros elementos conceptuales que tienen que ver, directamente, con la presión atmosférica. Ello favorecerá la asimilación de los contenidos de este componente y ampliará las posibilidades de aplicación de estrategias técnicas y mecanismos sistemáticos para enfrentar la problemática atmosférica actual. Se debe estudiar la gráfica de manera ordenada, siguiendo la numeración de sus partes.
 
@@ -169,11 +133,10 @@
               img(src='@/assets/curso/images/tema3/img_3.png').mb-3
           .col-lg-9.lg-0
             h4 Temperatura
-            p.mb-3 Presión (fuerza por unidad de área) ejercida por la atmósfera sobre cualquier superficie en virtud de su peso. Equivale al peso de una columna de aire de sección transversal unitaria que se extiende desde un nivel dado hasta el límite superior de la atmósfera (IDEAM, 2019). 
+            p.mb-3 Magnitud física que caracteriza el movimiento aleatorio medio de las moléculas en un cuerpo físico (IDEAM, 2019). Entonces se podría decir que entre más movimiento de las moléculas, mayor es la temperatura que se genera en el elemento, sustancia o cuerpo.
 
-            p.mb-0 Las unidades de medida de la presión atmosférica se establecen en diferentes unidades dependiendo del sistema empleado, algunas de las equivalencias más utilizadas se las presentamos en los botones siguientes de esta gráfica.
+            p.mb-3 La unidad con la que se determina la temperatura se establece en diferentes unidades, dependiendo del sistema de unidades empleado. Diríjase al punto tres de esta gráfica
 
-     
       .py-3.py-md-4(titulo="3. Velocidad del viento")
         .row.justify-content-center
           .col-3.col-lg-2.mb-4.mb-lg-0
@@ -192,7 +155,7 @@
             figure
               img(src='@/assets/curso/images/tema3/img_5.png').mb-3
           .col-lg-9.lg-0
-            h4 Dirección del viento"
+            h4 Dirección del viento
             p.mb-3 Dirección desde la que sopla el viento. (IDEAM, 2019).
             p.mb-0 Según Guerrero (2011) “La rosa de los vientos, también llamada rosa náutica, es un instrumento marino usado en las cartas de navegación que se utiliza para representar la circunferencia del horizonte mediante el uso de 32 rombos unidos por sus extremos. Frecuentemente, también se puede ver en el mismo instrumento una flor de lis, que se utiliza para representar el norte”.
 

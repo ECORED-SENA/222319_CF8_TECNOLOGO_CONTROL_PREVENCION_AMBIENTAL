@@ -18,7 +18,7 @@
             i.fas.fa-check.c-check
             | ¿Sabe por qué al planeta tierra se le llama así? Según el portal BBC News Mundo (2014), el término en español proviene del latín "terra", con el mismo significado que en español y relacionado con el verbo "torror", que significa “secar” o “chamuscar”. Se piensa que quizás se debe a que, en la filosofía presocrática, una línea de pensamiento era que la tierra provenía del agua que se secó.
 
-          p.my-3.mx-4 En inglés, la palabra "Earth" se deriva de la germana "erde", que significa "suelo".
+          p.my-3.mx-4 En inglés, la palabra <i>"Earth"</i> se deriva de la germana "erde", que significa "suelo".
           p.mb-3.mx-4 Las raíces de esas palabras datan de una época en que la humanidad aún no sabía que la tierra era un planeta. 
           p.mb-0.mx-4 Las palabras sólo significaban el suelo bajo sus pies y fueron adoptadas como el nombre del planeta después. 
 
@@ -44,7 +44,7 @@
                 i.fas.fa-check.c-check
                 h4 <b> Interdependencia </b>
 
-            p.mb-3 Se puede inferir que en el planeta dependemos no solo de otras especies para sobrevivir sino que, además, las actividades antrópicas, que el hombre desarrolla (extractiva) porque su misma evolución lo lleva a consumir lo que la misma tierra le ofrece, sin pensar a largo plazo en las repercusiones generadas en los ecosistemas, llevan a que las alteraciones del ambiente produzcan los efectos que venimos viviendo en la últimas décadas.
+            p.mb-3 Se puede inferir que en el planeta dependemos no solo de otras especies para sobrevivir sino que, además, las actividades antrópicas, que el hombre desarrolla (extractiva) porque su misma evolución lo lleva a consumir lo que la misma tierra le ofrece, sin pensar a largo plazo en las repercusiones generadas en los ecosistemas, llevan a que las alteraciones del ambiente produzcan los efectos que venimos viviendo en las últimas décadas.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-left")
@@ -140,15 +140,13 @@
                 img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h4 Lo irreversible
-                p.mb-3 “En el Acuerdo de París ratificado en 2015, la mayoría de países del mundo (196 partes, para ser más exactos) acordaron mantener por debajo de 2 °C el incremento de la temperatura global del planeta y hacer esfuerzos para limitarlo a 1.5 °C. 
-                
-                p La fecha fijada para llegar a estos objetivos es 2050. Pero la realidad es que, a este paso, en algo más de 20 años habremos superado el primero de los límites.”
+                p.mb-3 “La pérdida de biodiversidad que padeceríamos con el aumento a 1.5 °C sería catastrófica, pero si el ascenso es a 2 °C, el problema sería completamente irreversible por la desaparición de especies de plantas, animales, insectos, e incluso la muerte de casi la totalidad de los arrecifes de coral”. “Con un aumento de la temperatura del planeta de 2 °C, el 13 % de la superficie terrestre sufriría estos cambios, por ejemplo, de tundra a bosque, lo que supondría desajustes irreversibles en su flora y fauna”.
 
             .row.align-items-center
               .col-lg-10
               .col-lg-2
                 img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
-          .tarjeta.back-tab.px-5.py-4(titulo="Responsabilidad de las economías:")
+          .tarjeta.back-tab.px-5.py-4(titulo="¿Alguna esperanza?")
             .row.px-2.py-2.justify-content-center
               .col-lg-2.mb-3
                 img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
@@ -170,7 +168,6 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 El Ciudadano TV. (2019, 25 agosto). Hace 40 años predijeron el calentamiento global 
-                  p.text-small https://www.youtube.com/watch?v=1nhyQiWmVio
                 .col-md-auto
                   a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=1nhyQiWmVio" target="_blank")
                     span Ver

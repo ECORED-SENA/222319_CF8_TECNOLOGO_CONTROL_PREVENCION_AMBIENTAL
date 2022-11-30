@@ -1,6 +1,6 @@
 .banner-principal-decorativo
   &-1
-    animation: rotation 3.5s ease-in-out infinite alternate
+    animation: elemento 3.5s ease-in-out infinite alternate
     position: absolute
     top: 75%
     right: 83%
@@ -25,6 +25,14 @@
     top: 35%
     right: 5%
   
+
+@keyframes elemento
+  0%
+    transform: translate(25px, 150px)
+  100%
+    transform-origin: 0% 0%
+    transform: translate(50px, 0) rotate(45deg)
+
 @keyframes rotation
   from 
     transform: rotate(0deg)

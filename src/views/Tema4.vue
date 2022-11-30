@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Bases conceptuales
+      h1 Orígenes de contaminación y fuentes de emisiones
 
     p.mb-5 La contaminación atmosférica es una problemática que impacta directamente en la atmósfera y que consecuentemente afecta la calidad del aire que respiramos, generando en el ser humano consecuencias relacionadas con enfermedades, especialmente respiratorias, que impactan en gran medida al hombre y su bienestar.
 
@@ -14,7 +14,7 @@
         .jumbotron-1.p-5.h-100(data-aos="fade-right")
           h4.mb-3 Los contaminantes 
           img(src="@/assets/curso/images/tema4/img_1.png")
-          p.mt-3 Los contaminantes criterio como el CO2, los dióxidos de azufre, óxidos de nitrógeno, el material particulado, entre otros, se condensan en la parte superior de la tropósfera produciendo lo que conocemos como smog fotoquímico. Estos compuestos, al reaccionar con la radiación solar, exacerban las concentraciones y la temperatura media del planeta, aumentando las consecuencias, tanto en los receptores humanos como en los ecosistemas, debido a las actividades antrópicas que impactan directamente en la sociedad por la relación del consumo y la economía para el desarrollo de la humanidad. 
+          p.mt-3 Los contaminantes criterio como el CO<sub>2</sub>, los dióxidos de azufre, óxidos de nitrógeno, el material particulado, entre otros, se condensan en la parte superior de la tropósfera produciendo lo que conocemos como <i>smog</i> fotoquímico. Estos compuestos, al reaccionar con la radiación solar, exacerban las concentraciones y la temperatura media del planeta, aumentando las consecuencias, tanto en los receptores humanos como en los ecosistemas, debido a las actividades antrópicas que impactan directamente en la sociedad por la relación del consumo y la economía para el desarrollo de la humanidad. 
 
       .col-lg-6
         .jumbotron-2.p-5.h-100(data-aos="fade-left")
@@ -44,7 +44,7 @@
           .tarjeta.color-tarjeta-slyder-1
             .p-4
               h4.text-center Fuentes antropogénicas
-              p.text-center “Estas corresponden a actividades o intervenciones que realizan las personas, siendo la principal causa la combustión de materiales, sea ésta originada por las industrias, los vehículos o en el hogar. Esta clasificación tiene a su vez una subdivisión en tres grupos: las fuentes fijas, las fuentes móviles y las fuentes fugitivas”.
+              p.text-center Estas corresponden a actividades o intervenciones que realizan las personas, siendo la principal causa la combustión de materiales, sea ésta originada por las industrias, los vehículos o en el hogar. Esta clasificación tiene a su vez una subdivisión en tres grupos: las fuentes fijas, las fuentes móviles y las fuentes fugitivas.
 
 
         .tarjeta-avatar
@@ -53,7 +53,7 @@
           .tarjeta.color-tarjeta-slyder-1
             .p-4
               h4.text-center Las fuentes fijas
-              p.text-center “Corresponden a aquéllas situadas en un lugar físico particular, definido e inamovible. Considera las emisiones generadas por la quema de combustibles producto de actividades industriales y residenciales”.
+              p.text-center Corresponden a aquéllas situadas en un lugar físico particular, definido e inamovible. Considera las emisiones generadas por la quema de combustibles producto de actividades industriales y residenciales.
 
         .tarjeta-avatar
           img(src='@/assets/curso/images/tema4/ico_4.svg' alt='', style="width:130px; display:block; margin:auto 0 ;")
@@ -193,7 +193,7 @@
             p.mb-0 “El Material Particulado (MP) se clasifica según su diámetro, característica de la cual depende la intensidad de sus impactos. Las partículas de diámetros menores a 10 micrones, conocidas como MP10, y de diámetros menores a 2.5 micrones, conocidas como MP2.5. Este último es el contaminante más dañino para la salud y que genera mayores niveles de mortalidad prematura en la población”.
           .tarjeta.color-custom-info.p-3(x="82.7%" y="40%" numero="")
             h3 Monóxido de carbono (CO)
-            p.mb-3 “Este gas es producto de la combustión incompleta de los combustibles, al existir una cantidad insuficiente de oxígeno, dando como resultado CO en vez de CO2. Los vehículos a motor y los procesos industriales son responsables de aproximadamente el 80% de estas emisiones a la atmósfera. Sin embargo, también se produce al interior del hogar por la combustión residencial de leña para calefacción, cocinas, humo de cigarrillo y calefones”.
+            p.mb-3 “Este gas es producto de la combustión incompleta de los combustibles, al existir una cantidad insuficiente de oxígeno, dando como resultado CO en vez de CO<sub>2</sub>. Los vehículos a motor y los procesos industriales son responsables de aproximadamente el 80% de estas emisiones a la atmósfera. Sin embargo, también se produce al interior del hogar por la combustión residencial de leña para calefacción, cocinas, humo de cigarrillo y calefones”.
 
             p.mb-0 Este compuesto es uno de los gases más letales por su capacidad inhibidora de oxígeno - molécula en la sangre, lo que produce en el organismo una ausencia porcentual del mismo, siendo de esta manera muy letal.
 
@@ -208,33 +208,16 @@
             p Cuando hablamos de los NOx, se incluye una <b>familia de compuestos nitrogenados </b> en la que se encuentran:
 
             p * Óxido nítrico (NO).
-            p * Dióxido de nitrógeno (NO2).
-            p * Trióxido de nitrógeno (NO3).
-            p * Óxido nitroso (N2O).
-            p * Pentóxido de nitrógeno (N2O5).
+            p * Dióxido de nitrógeno (NO<sub>2</sub>).
+            p * Trióxido de nitrógeno (NO<sub>3</sub>).
+            p * Óxido nitroso (N<sub>2</sub>O).
+            p * Pentóxido de nitrógeno (N<sub>2</sub>O<sub>5</sub>).
 
 
           .tarjeta.color-custom-info.p-3(x="18.7%" y="43%" numero="")
             h3 Óxidos de azufre (SOx)
-            p.mb-0 “El dióxido de azufre (SO2) y trióxido de azufre (SO3) son los óxidos dominantes del azufre presentes en la atmósfera. Son producto de la combustión de combustibles fósiles, principalmente derivados del petróleo y carbón. Los óxidos de azufre pueden acelerar la corrosión de los materiales al formar primero ácido sulfúrico en la atmósfera o sobre la superficie de los metales”.
+            p.mb-0 “El dióxido de azufre (SO<sub>2</sub>) y trióxido de azufre (SO<sub>3</sub>) son los óxidos dominantes del azufre presentes en la atmósfera. Son producto de la combustión de combustibles fósiles, principalmente derivados del petróleo y carbón. Los óxidos de azufre pueden acelerar la corrosión de los materiales al formar primero ácido sulfúrico en la atmósfera o sobre la superficie de los metales”.
          
-    .row.align-items-center.aling
-      .col-lg-10(data-aos="zoom-in-down")
-        .tarjeta.color-primario.p-4.mb-5
-          .row.justify-content-center.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/images/tema1/ico_3.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 La contaminación del aire
-                  p.text-small https://www.youtube.com/watch?v=1nhyQiWmVio
-                .col-md-auto
-                  a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=1nhyQiWmVio" target="_blank")
-                    span Ver
-                    .row
-                      .col-auto
-                        img.mx-3(src="@/assets/curso/images/tema1/Ico-video.svg",  alt='', style="width:20px; display:block; margin:auto 0 ;")
 
     p.mb-3 Para finalizar con el estudio de los principales contaminantes atmosféricos, se recomienda observar atentamente los que se muestran a continuación.
 
@@ -327,8 +310,8 @@
       .py-4.py-md-5(titulo="Ozono troposférico (O3)" :icono="require('@/assets/curso/images/tema4/ico_16.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-8
-            h4 Ozono troposférico (O3)
-            p “Se trata del principal componente del smog fotoquímico y uno de los más fuertes agentes oxidantes. El ozono se forma en la tropósfera y de la acción de esta en las moléculas de ozono en la estratósfera, como producto de la reacción entre los NOX, los COV y los hidrocarburos (HC) en presencia de radiación solar. Las fuentes de hidrocarburos y NOx en las zonas urbanas son primordialmente los vehículos”.
+            h4 Ozono troposférico (O<sub>3</sub>)
+            p “Se trata del principal componente del <i>smog</i> fotoquímico y uno de los más fuertes agentes oxidantes. El ozono se forma en la tropósfera y de la acción de esta en las moléculas de ozono en la estratósfera, como producto de la reacción entre los NOX, los COV y los hidrocarburos (HC) en presencia de radiación solar. Las fuentes de hidrocarburos y NOx en las zonas urbanas son primordialmente los vehículos”.
             .row.justify-content-center.mt-3
               .col-lg-8
                 .jumbotron-4.p-3
@@ -340,10 +323,10 @@
               img.mx-2(src="@/assets/curso/images/tema4/img_9.svg",  alt='', style="width:300px; display:block; margin:auto 0 ;").my-3
 
 
-      .py-4.py-md-5(titulo="Ozono troposférico (O3)" :icono="require('@/assets/curso/images/tema4/ico_17.svg')")
+      .py-4.py-md-5(titulo="Estándares de emisiones en Colombia" :icono="require('@/assets/curso/images/tema4/ico_17.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-8
-            h4 Ozono troposférico (O3)
+            h4 Estándares de emisiones en Colombia
             p En Colombia, la Resolución 909 de 2008, por la cual se establecen los estándares de emisiones industriales a nivel nacional, establece la principal actividad antrópica generadora de estos contaminantes tipo criterio. Es importante reconocer qué tipo de procesos son generadores de estos compuestos. A continuación, se presenta un fragmento de la tabla 3 de las actividades industriales y contaminantes a monitorear por actividad industrial.
             .row.justify-content-center.mt-3
               .col-lg-8
@@ -354,25 +337,6 @@
           .col-lg-4
             figure
               img.mx-2(src="@/assets/curso/images/tema4/img_10.svg",  alt='', style="width:300px; display:block; margin:auto 0 ;").my-3
-
-
-    .row.align-items-center.aling.my-5
-      .col-lg-10              
-        .row.justify-content-center
-          .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-right")  
-            .tarjeta-avatar
-              img.mt-3(src="@/assets/curso/images/tema4/ico_18.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;")
-              .tarjeta-2.p-5.h-100
-                h4.mb-3  Plomo (Pb)
-                p “Este contaminante proviene de la combustión de gasolinas con plomo, de la minería y fundiciones, y de la incineración de residuos. El plomo puede depositarse en el agua y alimentos que consumimos, por lo que puede ser absorbido por nuestro cuerpo”. 
-
-          .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
-            .tarjeta-avatar
-              img.mt-3(src="@/assets/curso/images/tema4/ico_19.svg",  alt='', style="width:90px; display:block; margin:auto 0 ;")
-              .tarjeta-2.p-5.h-100
-                h4.mb-3 Ozono troposférico (O3)
-                p.mb-2 “Se trata del principal componente del smog fotoquímico y uno de los más fuertes agentes oxidantes. El ozono se forma en la tropósfera y de la acción de esta en las moléculas de ozono en la estratósfera, como producto de la reacción entre los NOX, los COV y los hidrocarburos (HC) en presencia de radiación solar. Las fuentes de hidrocarburos y NOx en las zonas urbanas son primordialmente los vehículos”.
-                p (Ministerio de Medio Ambiente. Gobierno de Chile, 2018)
 
 
     .row.mb-5.ps-2(data-aos="zoom-in-down")
@@ -396,8 +360,12 @@
           .col-lg-12
             p.mb-3 Por su tamaño, estas partículas son capaces de ingresar al sistema respiratorio, provocando potenciales daños a sus órganos principales. Mientras menor sea su diámetro, mayor será el potencial de daño a la salud humana. Las partículas de MP2,5 penetran hasta los alvéolos pulmonares e ingresan directamente al torrente sanguíneo, aumentando los riesgos de mortalidad prematura. En general, el MP puede también dañar las plantas, inhibir el crecimiento de la vegetación y corroer materiales.
         
-
       div(titulo="Impacto del monóxido de carbono (CO)")
+        .row.align-items-center.justify-content-center.p-4
+          .col-lg-12
+            p.mb-3 Tiene efectos perjudiciales, ya que en altas concentraciones puede causar cambios fisiológicos y patológicos y, finalmente, la muerte. Principalmente, el daño que produce es que el CO sustituye al oxígeno en la sangre, formando la carboxihemoglobina (COHb), lo que produce un menor transporte de oxígeno en la sangre, una disminución de las funciones neuroconductuales, menor peso en niños recién nacidos y retardo en el desarrollo postnatal. Al parecer, el monóxido de carbono no tiene efectos perjudiciales sobre la superficie de los materiales. Se han hecho experimentos que han demostrado que el CO no produce efectos dañinos en plantas a concentraciones por debajo de 100 ppm, teniendo en cuenta que rara vez las concentraciones ambientales de este contaminante pueden alcanzar este nivel, ni siquiera en cortos períodos
+
+      div(titulo="Óxidos de nitrógeno (NOx)")
         .row.align-items-center.justify-content-center.p-4
           .col-lg-12
             p.mb-3 Los NOx son responsables de importantes efectos sobre la salud y el medio ambiente, como problemas respiratorios o daño pulmonar, enfermedades en pulmones y bronquios, mayor susceptibilidad a las infecciones, daño celular, irritación ocular y pérdida de las mucosas. El NO2 puede reaccionar con la humedad presente en la atmósfera para formar ácido nítrico, que puede ser causa de corrosión de las superficies metálicas y detener el crecimiento de plantas.
@@ -426,15 +394,12 @@
             p.mb-3 Su toxicidad ocurre en continuo, a mayores concentraciones se generan efectos más nocivos. Provocan tos y dolores de cabeza, irritación de ojos, nariz y garganta, incremento de la mucosidad, estertores, cierre de las vías respiratorias, dolores de tórax, languidez, malestar y náuseas, con aumento en la incidencia de ataques asmáticos. También puede agravar enfermedades crónicas del corazón.
             p (Ministerio de Medio Ambiente. Gobierno de Chile, 2018)
 
-
     Separador
 
     #t_4_3.titulo-segundo
-      .h2 4.4 La Calidad del aire y su seguimiento
+      .h2 4.3 Monitoreo en Colombia
 
-    p.mb-3 Para saber cómo es la calidad del aire que respiramos, es importante conocer su estado, y más cuando es lo que nos afecta directamente, ya que el aire es un componente vital para el ser humano.
-
-    p.mb-5 Según el marco normativo establecido en Colombia: la Resolución 601 de 2006 del MAVDT; Resolución 610 de 2010 del MAVDT; Informe del estado de la calidad del aire en Colombia 2007-2010; Informe del estado del medio ambiente y de los recursos naturales renovables; Comunidad Andina –CAN; se establece la incorporación de la herramienta Índice de Calidad del Aire, mejor conocida por sus siglas como ICA.  
+    p.mb-0 En Colombia, se monitorean los principales contaminantes atmosféricos tipo criterio (MP, SOx, NOx, CO, entre otros) y mediante una herramienta estadística que se denomina ICA, o Índice de Calidad del Aire, en la que se establece un código de colores que indican cómo se encuentra la calidad del aire que respiramos, los cuales varían dependiendo de la concentración del contaminante que esté presente en el aire.
 
     .row.align-items-center.aling
       .col-lg-10(data-aos="zoom-in-down")
@@ -445,8 +410,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Contaminación del Aire
-                  p.text-small Para contextualizar el contenido, es posible visualizar el siguiente video: https://www.youtube.com/watch?v=FtKg9zJ6oNQ
+                  h3.mb-1 Todo lo que debes saber sobre la calidad del aire
+                  p.text-small Para contextualizar el contenido, es posible visualizar el siguiente video
                 .col-md-auto
                   a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=FtKg9zJ6oNQ" target="_blank")
                     span Ver
@@ -454,7 +419,16 @@
                       .col-auto
                         img.mx-2(src="@/assets/curso/images/tema4/ico_video_1.svg",  alt='', style="width:20px; display:block; margin:auto 0 ;")
 
-   
+    Separador
+
+    #t_4_4.titulo-segundo
+      .h2 4.4 La Calidad del aire y su seguimiento
+
+    p.mb-3 Para saber cómo es la calidad del aire que respiramos, es importante conocer su estado, y más cuando es lo que nos afecta directamente, ya que el aire es un componente vital para el ser humano.
+
+    p.mb-5 Según el marco normativo establecido en Colombia: la Resolución 601 de 2006 del MAVDT; Resolución 610 de 2010 del MAVDT; Informe del estado de la calidad del aire en Colombia 2007-2010; Informe del estado del medio ambiente y de los recursos naturales renovables; Comunidad Andina –CAN; se establece la incorporación de la herramienta Índice de Calidad del Aire, mejor conocida por sus siglas como ICA.  
+
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-5.mb-5.mb-lg-0(data-aos="fade-right")
         h3 ICA
