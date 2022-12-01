@@ -200,7 +200,7 @@
         .cajon.color-custom-2.p-4.mb-4.p-5
           .row.justify-content-star
             .col-5.col-lg-2.col-sm-2
-              img.mx-3(src="@/assets/curso/images/tema3/ico_2.svg").mb-2
+              img.mx-3(src="@/assets/curso/images/tema3/ico_2.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-2
             .col-lg-9.lg-0
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -220,7 +220,7 @@
         .cajon.color-custom-2.p-4.mb-4.p-5
           .row.justify-content-star
             .col-5.col-lg-2.col-sm-2
-              img.mx-3(src="@/assets/curso/images/tema3/ico_3.svg").mb-2
+              img.mx-3(src="@/assets/curso/images/tema3/ico_3.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-2
             .col-lg-9.lg-0
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0

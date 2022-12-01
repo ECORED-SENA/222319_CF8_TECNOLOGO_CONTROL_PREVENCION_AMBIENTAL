@@ -1,26 +1,26 @@
 .banner-principal-decorativo
   &-1
-    animation: elemento 3.5s ease-in-out infinite alternate
+    animation: elemento 13.5s ease-in-out infinite alternate
     position: absolute
-    top: 75%
+    top: 55%
     right: 83%
   &-2
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 13.5s ease-in-out infinite alternate
     position: absolute
     top: 4%
     right: 75%
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 12.8s ease-in-out infinite alternate
     position: absolute
     top: 50%
     right: 28%
   &-4
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 13.5s ease-in-out infinite alternate
     position: absolute
     top: 35%
     right: 65%
   &-5
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 13.5s ease-in-out infinite alternate
     position: absolute
     top: 35%
     right: 5%
@@ -440,8 +440,21 @@ figcaption
 
 .bg_grad-02
   background-color: #CDD3DE
-
-
+  background-repeat: no-repeat
+  background-size: cover
+  @media (max-width: 992px)
+    width: 100%
+    margin-left: -24px
+  @media (max-width: 768px)
+    width: 100%
+    margin-left: 5px
+  @media (max-width: 576px)
+    width: auto 
+    margin-left: 2px
+  @media (max-width: 412px)
+    margin-left: -2px !important
+  @media (max-width: 390px)
+    margin-left: -5px !important
 .lista-ol--cuadro__vineta 
   color: #000
 

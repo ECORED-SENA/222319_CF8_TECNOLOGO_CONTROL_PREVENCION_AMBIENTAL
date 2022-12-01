@@ -399,7 +399,7 @@
     #t_4_3.titulo-segundo
       .h2 4.3 Monitoreo en Colombia
 
-    p.mb-0 En Colombia, se monitorean los principales contaminantes atmosféricos tipo criterio (MP, SOx, NOx, CO, entre otros) y mediante una herramienta estadística que se denomina ICA, o Índice de Calidad del Aire, en la que se establece un código de colores que indican cómo se encuentra la calidad del aire que respiramos, los cuales varían dependiendo de la concentración del contaminante que esté presente en el aire.
+    p.mb-5 En Colombia, se monitorean los principales contaminantes atmosféricos tipo criterio (MP, SOx, NOx, CO, entre otros) y mediante una herramienta estadística que se denomina ICA, o Índice de Calidad del Aire, en la que se establece un código de colores que indican cómo se encuentra la calidad del aire que respiramos, los cuales varían dependiendo de la concentración del contaminante que esté presente en el aire.
 
     .row.align-items-center.aling
       .col-lg-10(data-aos="zoom-in-down")
