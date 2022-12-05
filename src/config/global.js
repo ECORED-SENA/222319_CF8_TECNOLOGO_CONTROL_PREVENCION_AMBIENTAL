@@ -84,7 +84,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Bases conceptuales',
+        titulo: 'Orígenes de contaminación y fuentes de emisiones',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -427,13 +427,7 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aW8Wuxxbv6E',
     },
-    {
-      tema: '5. Problemáticas ambientales',
-      referencia:
-        'Historia para melones. (2017, 29 noviembre). La contaminación atmosférica [Video]. YouTube. ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=JsBSJE_TCOA',
-    },
+
     {
       tema: '5. Problemáticas ambientales',
       referencia:
@@ -441,20 +435,7 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=eJrAvZRWKgY',
     },
-    {
-      tema: '6. Marco normativo',
-      referencia:
-        'Corantioquiaoficial. (2015, 13 julio). Programa de Gestión de Calidad del Aire [Video]. YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=yn3ubk_CABo',
-    },
-    {
-      tema: '6. Marco normativo',
-      referencia:
-        'Corantioquiaoficial. (2016, 16 octubre). Control a Fuentes Móviles [Video]. YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=rvAYPKtN7mg',
-    },
+
     {
       tema: '5. Problemáticas ambientales',
       referencia:

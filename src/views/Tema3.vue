@@ -103,9 +103,6 @@
                 p.mb-3 “La última de las capas de la atmósfera es la exósfera. Esta es la capa más alejada de la superficie terrestre y, debido a su altura, es la más indefinida y por eso no es en sí considerada una capa de la atmósfera. Más o menos se extiende entre los 600-800 km de altura hasta los 9.000-10.000 km. Esta capa de la atmósfera es la que separa el planeta tierra del espacio exterior y en ella los átomos se escapan. Está compuesta en su mayoría de hidrógeno”.
                 p (Portillo, 2021)
 
-   
-
-    p.mb-3 Para continuar conociendo los aspectos conceptuales básicos que favorecerán el estudio de este componente y que ayudarán a apropiar, más y mejor, la problemática atmosférica, se invita a desarrollar la siguiente actividad.
 
     Separador
 

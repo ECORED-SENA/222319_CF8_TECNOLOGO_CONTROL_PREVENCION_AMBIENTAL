@@ -140,7 +140,7 @@
                 img.mx-3(src="@/assets/curso/images/tema1/ico_1.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h4 Lo irreversible
-                p.mb-3 “La pérdida de biodiversidad que padeceríamos con el aumento a 1.5 °C sería catastrófica, pero si el ascenso es a 2 °C, el problema sería completamente irreversible por la desaparición de especies de plantas, animales, insectos, e incluso la muerte de casi la totalidad de los arrecifes de coral”. “Con un aumento de la temperatura del planeta de 2 °C, el 13 % de la superficie terrestre sufriría estos cambios, por ejemplo, de tundra a bosque, lo que supondría desajustes irreversibles en su flora y fauna”.
+                p.mb-3 La pérdida de biodiversidad que padeceríamos con el aumento a 1.5 °C sería catastrófica, pero si el ascenso es a 2 °C, el problema sería completamente irreversible por la desaparición de especies de plantas, animales, insectos, e incluso la muerte de casi la totalidad de los arrecifes de coral”. “Con un aumento de la temperatura del planeta de 2 °C, el 13 % de la superficie terrestre sufriría estos cambios, por ejemplo, de tundra a bosque, lo que supondría desajustes irreversibles en su flora y fauna.
 
             .row.align-items-center
               .col-lg-10

@@ -45,11 +45,11 @@
           ol.lista-ol--cuadro
             li 
               .lista-ol--cuadro__vineta
-                span 1
+                span 4
               p #MiPromesaClimáticaEs reunirá a importantes voces en este tema en el ámbito nacional que darán lineamientos sobre cuáles son esos factores a los que se debe comprometer la ciudadanía para proteger el clima; las acciones a tomar, durante y después de la pandemia, para reducir el impacto negativo en Colombia.
             li 
               .lista-ol--cuadro__vineta
-                span 2
+                span 5
               p.mb-5 Durante esta nueva campaña se harán llamados a gobernadores y alcaldes para participar en un reconocimiento especial por su compromiso climático. Además, se abrirá la convocatoria para que jóvenes y mujeres presenten ideas o emprendimientos que busquen la protección del clima y del medioambiente y que, de esta manera, puedan contar con el respaldo del PNUD.
       .row.justify-content-end.mt-3
         .col-lg-8 
@@ -163,11 +163,11 @@
       .row
         .col-lg-12
           h3 Origen del <i>Smog</i> fotoquímico
-          p.mb3 El <i>Smog</i>fotoquímico se puede apreciar en algunas ocasiones sobre el horizonte, especialmente en la mañana y cuando el sol refleja su radiación en la atmósfera produciendo un color entre rojizo y marrón, como una nube que se posa en el aire que respiramos.
+          p.mb3 El <i>Smog</i> fotoquímico se puede apreciar en algunas ocasiones sobre el horizonte, especialmente en la mañana y cuando el sol refleja su radiación en la atmósfera produciendo un color entre rojizo y marrón, como una nube que se posa en el aire que respiramos.
 
-          p.mb-3 “Este se origina por la combinación del aire con contaminantes durante un período de altas presiones. Este tipo de <i>Smog</i>se desarrolla en prácticamente todas las grandes ciudades del mundo, especialmente en aquellas con mucho tráfico, soleadas y con poco movimiento de las masas de aire.
+          p.mb-3 “Este se origina por la combinación del aire con contaminantes durante un período de altas presiones. Este tipo de <i>Smog</i> se desarrolla en prácticamente todas las grandes ciudades del mundo, especialmente en aquellas con mucho tráfico, soleadas y con poco movimiento de las masas de aire.
 
-          p.mb-3 El <i>Smog</i>fotoquímico se forma a partir de las reacciones entre la luz solar y los óxidos de nitrógeno (NOx) y/o compuestos orgánicos volátiles (COV). Estas reacciones provocan la formación de ozono (O3) o dióxidos de azufre (SO2), y otros contaminantes secundarios, como formaldehído y cetonas. Este tipo de <i>Smog</i> se intensifica cuando, aparte del tráfico intenso y la producción industrial que emiten NOx y COV a la atmósfera, se presenta un período de inversión térmica que impide la circulación del aire”.
+          p.mb-3 El <i>Smog</i> fotoquímico se forma a partir de las reacciones entre la luz solar y los óxidos de nitrógeno (NOx) y/o compuestos orgánicos volátiles (COV). Estas reacciones provocan la formación de ozono (O3) o dióxidos de azufre (SO2), y otros contaminantes secundarios, como formaldehído y cetonas. Este tipo de <i>Smog</i> se intensifica cuando, aparte del tráfico intenso y la producción industrial que emiten NOx y COV a la atmósfera, se presenta un período de inversión térmica que impide la circulación del aire”.
       
           p.mb-3 “La producción de <i>Smog</i> fotoquímico oscurece la atmósfera dejando un aire teñido de color marrón rojizo, cargado de componentes dañinos para la salud de las personas y del medio ambiente. Aparte de ensuciar el aire y entregarle un aspecto de niebla, causa daños sobre zonas forestales y agrícolas cercanas a las ciudades”.
 
@@ -220,7 +220,7 @@
       .col-12.col-lg-5.mb-5.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/images/tema5/img_8.png' alt="")
       .col-12.col-lg-5.mb-5.mb-lg-0(data-aos="fade-left")
-        p.mb-3 Cuando hablamos de la contaminación atmosférica, se involucran directamente los conceptos de <i>Smog</i>fotoquímico e inversión térmica, a los cuales se une uno más importante y determinante, como lo es el efecto invernadero. Este fenómeno natural es muy importante para el planeta; sin embargo, el crecimiento de la población mundial y sus diversas actividades antrópicas incrementan este fenómeno, generando consecuencias desastrosas.
+        p.mb-3 Cuando hablamos de la contaminación atmosférica, se involucran directamente los conceptos de <i>Smog</i> fotoquímico e inversión térmica, a los cuales se une uno más importante y determinante, como lo es el efecto invernadero. Este fenómeno natural es muy importante para el planeta; sin embargo, el crecimiento de la población mundial y sus diversas actividades antrópicas incrementan este fenómeno, generando consecuencias desastrosas.
 
 
         p.mb-0 Según el IDEAM, el efecto invernadero es el “calentamiento de las capas inferiores de la atmósfera debido a sus propiedades de absorción diferentes para las longitudes de onda larga y corta”. (IDEAM, 2012).
@@ -325,7 +325,7 @@
                 h3.mt-3 Incendios forestales en América del Norte
                 p.mb-3 “En 2016, los incendios forestales quemaron cerca de 3.6 millones de hectáreas al oeste de Canadá y Estados Unidos, incluido un incendio que fue particularmente destructivo en Alberta, el cual generó evacuaciones masivas y destruyó 2400 hogares”.
 
-          .tarjeta.back-tab-1.px-5.py-4(titulo="5. La “mancha” cálida en el Océano Pacífico")
+          .tarjeta.back-tab-1.px-5.py-4(titulo="La “mancha” cálida en el Océano Pacífico")
             .row.px-2.py-2.justify-content-center
               .col-6.col-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/images/tema5/img_16.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")

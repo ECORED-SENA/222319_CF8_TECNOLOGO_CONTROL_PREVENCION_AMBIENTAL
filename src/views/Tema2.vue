@@ -189,7 +189,7 @@
                 img.mt-4(src="@/assets/curso/images/tema2/ico_21.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 1. ¿Qué es protocolo de Kioto?
-                p.mb-3  “ El protocolo de Kioto es un acuerdo multinacional que compromete a los países industrializados a estabilizar las emisiones de gases de efecto invernadero. La convención por su parte solo alienta a los países a hacerlo.”
+                p.mb-3  El protocolo de Kioto es un acuerdo multinacional que compromete a los países industrializados a estabilizar las emisiones de gases de efecto invernadero. La convención por su parte solo alienta a los países a hacerlo.
 
           .tarjeta.back-tab.px-5.py-4(titulo="2. Responsabilidad común diferenciada")
             .row.px-2.py-2.justify-content-center
@@ -214,7 +214,7 @@
                 img.mt-3(src="@/assets/curso/images/tema2/ico_24.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 4. Más que un simple propósito.
-                p.mb-3 “El propósito de la firma del protocolo, más que comprometer a los diferentes países a disminuir los gases efecto invernadero, también es el de establecer metas y tiempos que contribuyan con la mitigación de las fuentes generadoras de estos gases que afectan la atmósfera y repercuten en el incremento de la temperatura del planeta con sus evidentes consecuencias, de acuerdo con lo publicado por el MADS en su página oficial.”
+                p.mb-3 El propósito de la firma del protocolo, más que comprometer a los diferentes países a disminuir los gases efecto invernadero, también es el de establecer metas y tiempos que contribuyan con la mitigación de las fuentes generadoras de estos gases que afectan la atmósfera y repercuten en el incremento de la temperatura del planeta con sus evidentes consecuencias, de acuerdo con lo publicado por el MADS en su página oficial.
 
           .tarjeta.back-tab.px-5.py-4(titulo="5. ¿Un régimen mundial?")
             .row.px-2.py-2.justify-content-center
@@ -245,12 +245,12 @@
                 .col.mb-3.mb-sm-0
                   p.mb-3 Usted debe conocer que, entre las metas que se establecen en este acuerdo mundial, el cual fue firmado por Colombia, están:
 
-                  p.mb-2 Dióxido de carbono (CO<sup>2</sup>)
-                  p.mb-2 Metano (CH<sup>4</sup>)
-                  p.mb-2 Óxido nitroso (N2<sup>O</sup>)
+                  p.mb-2 Dióxido de carbono (CO<sub>2</sub>)
+                  p.mb-2 Metano (CH<sub>4</sub>)
+                  p.mb-2 Óxido nitroso (N2<sub>O</sub>)
                   p.mb-2 Hidrofluorocarbonos (HFC)
                   p.mb-2 Perfluorocarbonos (PFC)
-                  p.mb-2 Hexafluoruro de azufre (SF<sup>6</sup>)
+                  p.mb-2 Hexafluoruro de azufre (SF<sub>6</sub>)
 
 
 

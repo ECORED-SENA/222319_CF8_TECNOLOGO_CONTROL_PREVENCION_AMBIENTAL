@@ -307,7 +307,7 @@
             figure
               img.mx-2(src="@/assets/curso/images/tema4/img_8.svg",  alt='', style="width:250px; display:block; margin:auto 0 ;").my-3
 
-      .py-4.py-md-5(titulo="Ozono troposférico (O3)" :icono="require('@/assets/curso/images/tema4/ico_16.svg')")
+      .py-4.py-md-5(titulo="Ozono troposférico (O<sub>3</sub>)" :icono="require('@/assets/curso/images/tema4/ico_16.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-8
             h4 Ozono troposférico (O<sub>3</sub>)
@@ -394,12 +394,11 @@
             p.mb-3 Su toxicidad ocurre en continuo, a mayores concentraciones se generan efectos más nocivos. Provocan tos y dolores de cabeza, irritación de ojos, nariz y garganta, incremento de la mucosidad, estertores, cierre de las vías respiratorias, dolores de tórax, languidez, malestar y náuseas, con aumento en la incidencia de ataques asmáticos. También puede agravar enfermedades crónicas del corazón.
             p (Ministerio de Medio Ambiente. Gobierno de Chile, 2018)
 
-    Separador
+      div(titulo="Monitoreo en Colombia")
+        .row.align-items-center.justify-content-center.p-4
+          .col-lg-12
+            p.mb-3 En Colombia, se monitorean los principales contaminantes atmosféricos tipo criterio (MP, SOx, NOx, CO, entre otros) y mediante una herramienta estadística que se denomina ICA, o Índice de Calidad del Aire, en la que se establece un código de colores que indican cómo se encuentra la calidad del aire que respiramos, los cuales varían dependiendo de la concentración del contaminante que esté presente en el aire.
 
-    #t_4_3.titulo-segundo
-      .h2 4.3 Monitoreo en Colombia
-
-    p.mb-5 En Colombia, se monitorean los principales contaminantes atmosféricos tipo criterio (MP, SOx, NOx, CO, entre otros) y mediante una herramienta estadística que se denomina ICA, o Índice de Calidad del Aire, en la que se establece un código de colores que indican cómo se encuentra la calidad del aire que respiramos, los cuales varían dependiendo de la concentración del contaminante que esté presente en el aire.
 
     .row.align-items-center.aling
       .col-lg-10(data-aos="zoom-in-down")
@@ -491,7 +490,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Secretaría de Ambiente lanza sistema que alerta el estado de calidad del aire.
-                  p.text-small Para contextualizar este contenido, se puede visualizar el video del siguiente enlace: https://www.youtube.com/watch?v=aW8Wuxxbv6E
+                  p.text-small Para contextualizar este contenido, se puede visualizar el video, el siguiente enlace: 
                 .col-md-auto
                   a.boton.color-acento-contenido.texto-blanco(href="https://www.youtube.com/watch?v=aW8Wuxxbv6E" target="_blank")
                     span Ver
