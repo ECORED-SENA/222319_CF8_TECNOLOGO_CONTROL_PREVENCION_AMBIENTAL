@@ -189,7 +189,7 @@
                 img.mt-4(src="@/assets/curso/images/tema2/ico_21.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 1. ¿Qué es protocolo de Kioto?
-                p.mb-3  El protocolo de Kioto es un acuerdo multinacional que compromete a los países industrializados a estabilizar las emisiones de gases de efecto invernadero. La convención por su parte solo alienta a los países a hacerlo.
+                p.mb-3  El protocolo ha movido a los gobiernos a establecer leyes y políticas para cumplir sus compromisos, a las empresas a tener el medioambiente en cuenta a la hora de tomar decisiones sobre sus inversiones, y además ha propiciado la creación del mercado del carbono.
 
           .tarjeta.back-tab.px-5.py-4(titulo="2. Responsabilidad común diferenciada")
             .row.px-2.py-2.justify-content-center
