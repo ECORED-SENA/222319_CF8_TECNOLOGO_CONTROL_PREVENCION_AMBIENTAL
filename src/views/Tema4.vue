@@ -327,8 +327,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             h4 Estándares de emisiones en Colombia
-            p En Colombia, la Resolución 909 de 2008, por la cual se establecen los estándares de emisiones industriales a nivel nacional, establece la principal actividad antrópica generadora de estos contaminantes tipo criterio. Es importante reconocer qué tipo de procesos son generadores de estos compuestos. A continuación, se presenta un fragmento de la tabla 3 de las actividades industriales y contaminantes a monitorear por actividad industrial.
-            .row.justify-content-center.mt-3
+            p En Colombia, la Resolución 909 de 2008, por la cual se establecen los estándares de emisiones industriales a nivel nacional, establece la principal actividad antrópica generadora de estos contaminantes tipo criterio. Es importante reconocer qué tipo de procesos son generadores de estos compuestos.
               .col-lg-8
                 .jumbotron-4.p-3
                   p (Ministerio para la Transición Ecológica y el Reto Demográfico, 2016)
@@ -477,8 +476,6 @@
         .h4.mb-0.text-white Acciones preventivas
 
     p.mb-3 Es muy importante conocer qué acciones preventivas debemos ejecutar cuando se conocen los diferentes estados de la concentración de los contaminantes presentes en el aire que respiramos. La hoja metodológica versión 1 (IDEAM, 2012) “establece las diferentes acciones a ejecutar, la cuales están contenidas en los niveles de contaminación del aire reflejados por cada uno de los rangos del ICA para los cuales determinan un conjunto de acciones preventivas que se recomienda sean tenidas en cuenta por la población”. 
-
-    p.mb-5 De esta manera, se puede evidenciar en el ejemplo (Tabla 2), cuáles son las acciones que se deben ejecutar dependiendo del color y el contaminante que se esté monitoreando. Así podremos realizar una vigilancia más pertinente del estado del aire en nuestro país
 
     .row.align-items-center.aling
       .col-lg-10(data-aos="zoom-in-down")

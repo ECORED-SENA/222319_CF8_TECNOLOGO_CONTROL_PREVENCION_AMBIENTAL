@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Diagnosticar e interpretar resultados de contaminación atmosférica según normativa vigente.',
+    componenteFormativo: 'Diagnóstico de la problemática atmosférica',
     descripcionCurso:
       'Con el estudio de este componente, el aprendiz podrá favorecer procesos de comprensión, análisis y aplicación de diagnósticos de la problemática ambiental y de interpretación de mediciones de contaminación atmosférica, basándose en procedimientos técnicos y normativa ambiental vigente.',
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
@@ -280,7 +279,7 @@ export default {
       referencia:
         'Minambiente. (2020). Protocolo de Kioto. Ministerio de Ambiente y Desarrollo Sostenible.',
       link:
-        'https://www.minambiente.gov.co/index.php/convencion-marco-de-naciones-unidas-para-el-cambio-climatico-cmnucc/protocolo-de-kioto',
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/10/INFORME_GESTION_MINAMBIENTE_2020.pdf ',
     },
     {
       referencia:
