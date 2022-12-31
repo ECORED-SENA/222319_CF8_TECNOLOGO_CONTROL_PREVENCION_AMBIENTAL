@@ -20,7 +20,7 @@
     #t_6_1.titulo-segundo
       .h2 6.1 Contaminación y calidad ambiental
 
-    p.mb-5 Es importante definir cómo la regulación ambiental marca el camino de la conciencia ambiental en nuestro país, según el Instituto De Hidrología Meteorología Y Estudios Ambientales –IDEAM… “el control de la contaminación en Colombia comienza con la generación de datos e información.  La caracterización de la calidad ambiental que es su equivalente, constituye uno de los más importantes procesos de desarrollo de información orientados a un amplio margen de tomadores de decisiones que van desde el ciudadano del común que busca optimizar sus medios de vida, hasta los altos funcionarios del Estado que deben tomar decisiones de política pública relacionada con grandes grupos poblacionales, especialmente los que habitan las zonas urbanas. “(IDEAM, 2014)”.
+    p.mb-5 Es importante definir cómo la regulación ambiental marca el camino de la conciencia ambiental en nuestro país, según el Instituto De Hidrología Meteorología Y Estudios Ambientales –IDEAM… “el control de la contaminación en Colombia comienza con la generación de datos e información.  La caracterización de la calidad ambiental que es su equivalente, constituye uno de los más importantes procesos de desarrollo de información orientados a un amplio margen de tomadores de decisiones que van desde el ciudadano del común que busca optimizar sus medios de vida, hasta los altos funcionarios del Estado que deben tomar decisiones de política pública relacionada con grandes grupos poblacionales, especialmente los que habitan las zonas urbanas. (IDEAM, 2014).
 
     h4.mb-5 Normas Asociadas
 

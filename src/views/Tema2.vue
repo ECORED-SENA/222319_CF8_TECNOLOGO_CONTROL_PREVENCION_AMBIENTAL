@@ -205,7 +205,7 @@
                 img.mt-5(src="@/assets/curso/images/tema2/ico_23.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
               .col-lg-10
                 h3 3. Moviendo a los gobiernos
-                p.mb-3 “ El protocolo ha movido a los gobiernos a establecer leyes y políticas para cumplir sus compromisos, a las empresas a tener el medioambiente en cuenta a la hora de tomar decisiones sobre sus inversiones, y además ha propiciado la creación del mercado del carbono.”
+                p.mb-3 El protocolo ha movido a los gobiernos a establecer leyes y políticas para cumplir sus compromisos, a las empresas a tener el medioambiente en cuenta a la hora de tomar decisiones sobre sus inversiones, y además ha propiciado la creación del mercado del carbono.
           
 
           .tarjeta.back-tab.px-5.py-4(titulo="4. Más que un simple propósito.")

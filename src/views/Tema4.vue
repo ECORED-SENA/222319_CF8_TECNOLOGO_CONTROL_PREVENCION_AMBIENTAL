@@ -342,8 +342,7 @@
       .col-lg-3.bg-color-3.px-4.py-2
         .h4.mb-0.text-white Estándares de emisiones en Colombia
 
-    p.mb-3 En Colombia, la Resolución 909 de 2008, por la cual se establecen los estándares de emisiones industriales a nivel nacional, establece la principal actividad antrópica generadora de estos contaminantes tipo criterio. Es importante reconocer qué tipo de procesos son generadores de estos compuestos. A continuación, se presenta un fragmento de la tabla 3 de las actividades industriales y contaminantes a monitorear por actividad industrial.
-
+    p.mb-3 En Colombia, la Resolución 909 de 2008, por la cual se establecen los estándares de emisiones industriales a nivel nacional, establece la principal actividad antrópica generadora de estos contaminantes tipo criterio. Es importante reconocer qué tipo de procesos son generadores de estos compuestos.
     Separador
 
     #t_4_3.titulo-segundo
@@ -464,7 +463,7 @@
             hr
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 “En la Tabla No. 1, se presentan los rangos en los que han sido clasificados los valores que puede tomar el Índice, junto con el color que le fue asignado para identificar de forma sencilla la alerta que representa el nivel de contaminación”.
+            p.mb-0  Se presentan los rangos en los que han sido clasificados los valores que puede tomar el Índice, junto con el color que le fue asignado para identificar de forma sencilla la alerta que representa el nivel de contaminación.
             i.fas.fa-quote-right 
 
       .col-12.col-lg-4.mb-lg-0(data-aos="fade-left")
