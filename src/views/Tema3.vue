@@ -56,7 +56,7 @@
             .row.align-items-center
               .col-lg-10
               .col-lg-2
-                img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
+                //- img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
 
           .tarjeta.back-tab.px-5.py-4(titulo="Tropósfera")
             .row.px-2.py-2.justify-content-center
@@ -66,7 +66,7 @@
             .row.align-items-center
               .col-lg-10
               .col-lg-2
-                img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
+                //- img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
   
           .tarjeta.back-tab.px-5.py-4(titulo="Estratósfera")
             .row.px-2.py-2.justify-content-center
@@ -77,7 +77,7 @@
             .row.align-items-center
               .col-lg-10
               .col-lg-2
-                img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
+                //- img.mx-5(src="@/assets/curso/images/tema1/ico_2.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;")
           
 
           .tarjeta.back-tab.px-5.py-4(titulo="Mesósfera")
@@ -197,7 +197,7 @@
         .cajon.color-custom-2.p-4.mb-4.p-5
           .row.justify-content-star
             .col-5.col-lg-2.col-sm-2
-              img.mx-3(src="@/assets/curso/images/tema3/ico_2.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-2
+              //- img.mx-3(src="@/assets/curso/images/tema3/ico_2.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-2
             .col-lg-9.lg-0
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0

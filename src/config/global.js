@@ -1,33 +1,34 @@
 export default {
   global: {
-    componenteFormativo: 'Diagnóstico de la problemática atmosférica',
+    componenteFormativo:
+      'Diagnosticar e interpretar resultados de contaminación atmosférica según normativa vigente.',
     descripcionCurso:
       'Con el estudio de este componente, el aprendiz podrá favorecer procesos de comprensión, análisis y aplicación de diagnósticos de la problemática ambiental y de interpretación de mediciones de contaminación atmosférica, basándose en procedimientos técnicos y normativa ambiental vigente.',
-    fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
-    imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal_5.png'),
+    fondoBannerPrincipal: require('@/assets/curso/images/header/banner.png'),
+    imagenBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
     fondoBannerInterno: require('@/assets/curso/images/header/interno.svg'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/images/header/1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/images/header/2.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-3'],
-        imagen: require('@/assets/curso/images/header/3.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-4'],
-        imagen: require('@/assets/curso/images/header/4.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-5'],
-        imagen: require('@/assets/curso/images/header/5.svg'),
-      },
-    ],
+    // imagenesDecorativasBanner: [
+    //   {
+    //     clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+    //     imagen: require('@/assets/curso/images/header/1.svg'),
+    //   },
+    //   {
+    //     clases: ['banner-principal-decorativo-2'],
+    //     imagen: require('@/assets/curso/images/header/2.svg'),
+    //   },
+    //   {
+    //     clases: ['banner-principal-decorativo-3'],
+    //     imagen: require('@/assets/curso/images/header/3.svg'),
+    //   },
+    //   {
+    //     clases: ['banner-principal-decorativo-4'],
+    //     imagen: require('@/assets/curso/images/header/4.svg'),
+    //   },
+    //   {
+    //     clases: ['banner-principal-decorativo-5'],
+    //     imagen: require('@/assets/curso/images/header/5.svg'),
+    //   },
+    // ],
   },
   menuPrincipal: {
     menu: [
